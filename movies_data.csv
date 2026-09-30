@@ -1,0 +1,1189 @@
+User_ID,Movie_Title,Release_Year,Language,Genre,Age_Group,Rating,Movie_Key
+157,Beyond the Stars,2013,Korean,Horror,13-17,8.0,Beyond the Stars_2013_Korean
+47,Beyond the Stars,2015,Hindi,Horror,13-17,6.5,Beyond the Stars_2015_Hindi
+173,The Lost Kingdom,2022,English,Sci-Fi,35-44,4.7,The Lost Kingdom_2022_English
+130,The Silent House,2024,Hindi,Sci-Fi,45+,7.9,The Silent House_2024_Hindi
+95,The Silent House,2019,Spanish,Comedy,25-34,7.6,The Silent House_2019_Spanish
+115,Digital Age,2019,Japanese,Crime,35-44,6.4,Digital Age_2019_Japanese
+243,Dream Makers,2023,Spanish,Unknown,13-17,7.7,Dream Makers_2023_Spanish
+292,Beyond the Stars,2013,English,Romance,25-34,5.5,Beyond the Stars_2013_English
+282,Future World,2024,Korean,Drama,18-24,8.2,Future World_2024_Korean
+299,Ocean Quest,2023,French,Comedy,18-24,6.7,Ocean Quest_2023_French
+69,Broken Roads,2014,English,Thriller,25-34,6.4,Broken Roads_2014_English
+148,Shadow Hunter,2017,French,Comedy,45+,6.8,Shadow Hunter_2017_French
+11,City Lights,2018,Korean,Comedy,25-34,7.1,City Lights_2018_Korean
+254,Final Verdict,2019,Japanese,Horror,35-44,7.2,Final Verdict_2019_Japanese
+38,Dream Makers,2014,Spanish,Animation,45+,6.6,Dream Makers_2014_Spanish
+134,Parallel Lives,2015,Japanese,Crime,45+,7.3,Parallel Lives_2015_Japanese
+200,Campus Days,2010,English,Animation,18-24,7.1,Campus Days_2010_English
+23,Ocean Quest,2020,Japanese,Romance,25-34,6.4,Ocean Quest_2020_Japanese
+218,Digital Age,2025,Japanese,Action,45+,6.2,Digital Age_2025_Japanese
+141,The Silent House,2021,English,Horror,35-44,7.8,The Silent House_2021_English
+104,Ocean Quest,2024,English,Action,18-24,7.7,Ocean Quest_2024_English
+210,The Lost Kingdom,2016,Spanish,Romance,45+,7.2,The Lost Kingdom_2016_Spanish
+111,Digital Age,2013,Japanese,Animation,25-34,8.1,Digital Age_2013_Japanese
+104,Secret Agent,2020,French,Comedy,18-24,4.9,Secret Agent_2020_French
+171,Secret Agent,2011,English,Sci-Fi,25-34,6.5,Secret Agent_2011_English
+133,Future World,2014,Korean,Sci-Fi,25-34,5.8,Future World_2014_Korean
+293,Wild Frontier,2021,Japanese,Adventure,25-34,9.6,Wild Frontier_2021_Japanese
+127,The Lost Kingdom,2012,English,Thriller,18-24,7.9,The Lost Kingdom_2012_English
+106,Campus Days,2015,French,Crime,45+,7.0,Campus Days_2015_French
+92,Hidden Truth,2017,Spanish,Romance,13-17,8.0,Hidden Truth_2017_Spanish
+287,Midnight Chase,2016,Japanese,Thriller,45+,8.3,Midnight Chase_2016_Japanese
+51,Campus Days,2025,English,Crime,18-24,8.3,Campus Days_2025_English
+29,Future World,2012,English,Thriller,13-17,8.1,Future World_2012_English
+296,The Silent House,2017,Korean,Animation,13-17,6.8,The Silent House_2017_Korean
+297,Parallel Lives,2011,Korean,Crime,13-17,6.5,Parallel Lives_2011_Korean
+214,Digital Age,2019,Japanese,Animation,35-44,6.0,Digital Age_2019_Japanese
+267,Broken Roads,2018,English,Comedy,18-24,7.7,Broken Roads_2018_English
+257,Ocean Quest,2013,Japanese,Horror,35-44,6.9,Ocean Quest_2013_Japanese
+101,The Lost Kingdom,2010,English,Animation,13-17,6.6,The Lost Kingdom_2010_English
+110,Ocean Quest,2017,Korean,Sci-Fi,35-44,6.6,Ocean Quest_2017_Korean
+182,The Lost Kingdom,2016,French,Thriller,35-44,8.7,The Lost Kingdom_2016_French
+1,Midnight Chase,2020,Hindi,Adventure,18-24,8.1,Midnight Chase_2020_Hindi
+55,Future World,2022,Hindi,Drama,25-34,9.1,Future World_2022_Hindi
+149,Final Verdict,2025,English,Crime,35-44,7.7,Final Verdict_2025_English
+137,Final Verdict,2014,Korean,Romance,35-44,7.2,Final Verdict_2014_Korean
+202,Broken Roads,2019,Spanish,Adventure,13-17,7.1,Broken Roads_2019_Spanish
+117,Digital Age,2022,Spanish,Unknown,13-17,6.0,Digital Age_2022_Spanish
+154,City Lights,2014,Hindi,Animation,13-17,5.7,City Lights_2014_Hindi
+291,Parallel Lives,2016,French,Horror,45+,7.7,Parallel Lives_2016_French
+63,Secret Agent,2014,Hindi,Comedy,35-44,6.1,Secret Agent_2014_Hindi
+244,Digital Age,2017,English,Drama,13-17,7.3,Digital Age_2017_English
+25,Parallel Lives,2020,French,Action,18-24,8.3,Parallel Lives_2020_French
+90,Wild Frontier,2022,Spanish,Adventure,45+,6.4,Wild Frontier_2022_Spanish
+75,Future World,2015,Korean,Horror,25-34,9.3,Future World_2015_Korean
+294,Broken Roads,2022,Korean,Action,35-44,6.0,Broken Roads_2022_Korean
+210,Final Verdict,2014,English,Drama,35-44,8.2,Final Verdict_2014_English
+17,Love in Winter,2018,Hindi,Romance,18-24,7.6,Love in Winter_2018_Hindi
+128,The Last Mission,2020,English,Romance,25-34,8.4,The Last Mission_2020_English
+251,Hidden Truth,2025,Korean,Thriller,25-34,5.9,Hidden Truth_2025_Korean
+179,Wild Frontier,2011,Spanish,Drama,45+,9.6,Wild Frontier_2011_Spanish
+182,Midnight Chase,2010,Korean,Drama,35-44,6.9,Midnight Chase_2010_Korean
+152,Future World,2017,French,Action,13-17,7.8,Future World_2017_French
+25,Parallel Lives,2021,Japanese,Horror,18-24,8.7,Parallel Lives_2021_Japanese
+180,Love in Winter,2012,Korean,Crime,18-24,6.4,Love in Winter_2012_Korean
+198,Parallel Lives,2023,Korean,Action,18-24,8.0,Parallel Lives_2023_Korean
+161,Ocean Quest,2020,Japanese,Comedy,18-24,6.3,Ocean Quest_2020_Japanese
+177,Dream Makers,2021,French,Romance,13-17,8.6,Dream Makers_2021_French
+285,Shadow Hunter,2021,Hindi,Romance,13-17,6.3,Shadow Hunter_2021_Hindi
+63,Ocean Quest,2021,Korean,Thriller,45+,7.1,Ocean Quest_2021_Korean
+150,The Last Mission,2016,English,Comedy,35-44,7.4,The Last Mission_2016_English
+154,Future World,2019,Korean,Romance,13-17,8.0,Future World_2019_Korean
+156,Love in Winter,2022,English,Action,45+,9.3,Love in Winter_2022_English
+49,Hidden Truth,2020,French,Comedy,25-34,6.6,Hidden Truth_2020_French
+84,The Last Mission,2017,Korean,Action,35-44,8.4,The Last Mission_2017_Korean
+177,Beyond the Stars,2024,French,Crime,13-17,9.3,Beyond the Stars_2024_French
+148,Ocean Quest,2025,French,Crime,25-34,7.3,Ocean Quest_2025_French
+118,Hidden Truth,2022,Hindi,Romance,45+,6.5,Hidden Truth_2022_Hindi
+63,Dream Makers,2022,Korean,Romance,13-17,5.2,Dream Makers_2022_Korean
+189,City Lights,2015,English,Horror,13-17,9.2,City Lights_2015_English
+49,Final Verdict,2021,English,Crime,25-34,6.8,Final Verdict_2021_English
+257,Dream Makers,2019,Korean,Adventure,13-17,6.0,Dream Makers_2019_Korean
+224,The Lost Kingdom,2023,Japanese,Adventure,18-24,5.6,The Lost Kingdom_2023_Japanese
+141,Midnight Chase,2018,Hindi,Thriller,13-17,6.0,Midnight Chase_2018_Hindi
+215,City Lights,2016,Hindi,Crime,35-44,8.1,City Lights_2016_Hindi
+211,The Silent House,2024,Hindi,Action,25-34,8.3,The Silent House_2024_Hindi
+32,Shadow Hunter,2019,English,Action,35-44,7.8,Shadow Hunter_2019_English
+158,Broken Roads,2014,French,Sci-Fi,45+,7.2,Broken Roads_2014_French
+285,The Silent House,2017,Japanese,Comedy,35-44,5.7,The Silent House_2017_Japanese
+286,Secret Agent,2024,Hindi,Animation,18-24,6.3,Secret Agent_2024_Hindi
+144,Beyond the Stars,2011,English,Adventure,18-24,5.9,Beyond the Stars_2011_English
+19,Dream Makers,2016,English,Romance,35-44,7.7,Dream Makers_2016_English
+18,Future World,2024,French,Thriller,45+,5.9,Future World_2024_French
+257,Campus Days,2013,Korean,Animation,13-17,6.3,Campus Days_2013_Korean
+78,The Lost Kingdom,2018,Korean,Drama,18-24,6.9,The Lost Kingdom_2018_Korean
+175,The Lost Kingdom,2021,Hindi,Thriller,35-44,5.3,The Lost Kingdom_2021_Hindi
+194,City Lights,2010,Hindi,Drama,35-44,7.2,City Lights_2010_Hindi
+113,Secret Agent,2016,Japanese,Crime,35-44,7.0,Secret Agent_2016_Japanese
+114,Final Verdict,2015,French,Drama,13-17,8.4,Final Verdict_2015_French
+222,Shadow Hunter,2017,Hindi,Drama,25-34,6.2,Shadow Hunter_2017_Hindi
+166,Wild Frontier,2014,French,Horror,45+,5.7,Wild Frontier_2014_French
+132,Code Breaker,2024,Unknown,Horror,25-34,6.7,Code Breaker_2024_Unknown
+264,Wild Frontier,2010,Hindi,Horror,45+,5.9,Wild Frontier_2010_Hindi
+55,Love in Winter,2010,English,Crime,45+,7.1,Love in Winter_2010_English
+131,Beyond the Stars,2018,Spanish,Animation,35-44,5.1,Beyond the Stars_2018_Spanish
+288,Parallel Lives,2024,French,Thriller,18-24,6.4,Parallel Lives_2024_French
+266,Beyond the Stars,2019,Spanish,Thriller,35-44,6.1,Beyond the Stars_2019_Spanish
+162,Secret Agent,2015,Hindi,Romance,13-17,7.7,Secret Agent_2015_Hindi
+87,Dream Makers,2019,English,Horror,45+,6.2,Dream Makers_2019_English
+55,Hidden Truth,2014,Hindi,Crime,18-24,5.2,Hidden Truth_2014_Hindi
+288,Love in Winter,2024,Spanish,Romance,45+,6.9,Love in Winter_2024_Spanish
+178,Code Breaker,2010,Hindi,Comedy,45+,7.5,Code Breaker_2010_Hindi
+8,Ocean Quest,2015,Japanese,Romance,35-44,6.8,Ocean Quest_2015_Japanese
+247,Midnight Chase,2015,Korean,Animation,18-24,6.4,Midnight Chase_2015_Korean
+255,Dream Makers,2012,Spanish,Adventure,18-24,6.4,Dream Makers_2012_Spanish
+54,Code Breaker,2022,Hindi,Drama,45+,7.2,Code Breaker_2022_Hindi
+249,The Lost Kingdom,2025,English,Horror,18-24,6.1,The Lost Kingdom_2025_English
+239,Beyond the Stars,2017,Hindi,Adventure,18-24,6.7,Beyond the Stars_2017_Hindi
+229,Broken Roads,2023,English,Romance,35-44,7.9,Broken Roads_2023_English
+67,Secret Agent,2024,Korean,Crime,25-34,5.7,Secret Agent_2024_Korean
+51,Campus Days,2010,Hindi,Drama,13-17,7.1,Campus Days_2010_Hindi
+97,Midnight Chase,2010,Korean,Thriller,25-34,5.1,Midnight Chase_2010_Korean
+92,Beyond the Stars,2015,Spanish,Action,18-24,7.4,Beyond the Stars_2015_Spanish
+264,The Lost Kingdom,2019,English,Drama,45+,6.0,The Lost Kingdom_2019_English
+291,Hidden Truth,2022,Japanese,Animation,13-17,8.2,Hidden Truth_2022_Japanese
+96,Love in Winter,2010,Spanish,Animation,13-17,5.5,Love in Winter_2010_Spanish
+88,Shadow Hunter,2015,English,Romance,45+,7.6,Shadow Hunter_2015_English
+78,Secret Agent,2010,Korean,Comedy,13-17,8.4,Secret Agent_2010_Korean
+288,Beyond the Stars,2025,French,Animation,45+,6.0,Beyond the Stars_2025_French
+120,City Lights,2023,Hindi,Animation,13-17,6.2,City Lights_2023_Hindi
+165,Digital Age,2022,Korean,Crime,25-34,6.1,Digital Age_2022_Korean
+182,Wild Frontier,2015,English,Romance,13-17,6.6,Wild Frontier_2015_English
+223,Wild Frontier,2012,English,Drama,35-44,7.7,Wild Frontier_2012_English
+7,Campus Days,2023,English,Comedy,45+,6.5,Campus Days_2023_English
+263,The Lost Kingdom,2023,English,Adventure,13-17,5.9,The Lost Kingdom_2023_English
+161,Wild Frontier,2024,Hindi,Action,45+,4.9,Wild Frontier_2024_Hindi
+151,Broken Roads,2017,Spanish,Horror,35-44,8.9,Broken Roads_2017_Spanish
+85,Future World,2022,Japanese,Thriller,13-17,8.9,Future World_2022_Japanese
+147,Code Breaker,2024,French,Unknown,13-17,7.7,Code Breaker_2024_French
+112,Beyond the Stars,2015,Hindi,Romance,35-44,6.2,Beyond the Stars_2015_Hindi
+36,Wild Frontier,2022,English,Horror,35-44,7.9,Wild Frontier_2022_English
+285,Shadow Hunter,2020,Hindi,Thriller,35-44,8.1,Shadow Hunter_2020_Hindi
+188,Broken Roads,2022,Korean,Thriller,45+,6.8,Broken Roads_2022_Korean
+82,Beyond the Stars,2010,Japanese,Adventure,35-44,7.1,Beyond the Stars_2010_Japanese
+2,Campus Days,2024,English,Adventure,45+,8.5,Campus Days_2024_English
+197,The Last Mission,2014,French,Adventure,25-34,5.3,The Last Mission_2014_French
+11,Digital Age,2017,English,Sci-Fi,13-17,8.2,Digital Age_2017_English
+234,Secret Agent,2012,Japanese,Sci-Fi,13-17,6.8,Secret Agent_2012_Japanese
+195,Campus Days,2021,French,Thriller,18-24,5.9,Campus Days_2021_French
+119,Parallel Lives,2015,Japanese,Adventure,25-34,6.0,Parallel Lives_2015_Japanese
+20,Final Verdict,2014,French,Crime,35-44,6.1,Final Verdict_2014_French
+261,Broken Roads,2015,Spanish,Animation,35-44,5.8,Broken Roads_2015_Spanish
+293,The Last Mission,2019,Spanish,Horror,25-34,9.0,The Last Mission_2019_Spanish
+256,Campus Days,2010,Hindi,Horror,35-44,7.6,Campus Days_2010_Hindi
+222,Code Breaker,2016,Hindi,Sci-Fi,18-24,8.3,Code Breaker_2016_Hindi
+226,Beyond the Stars,2018,French,Thriller,45+,7.7,Beyond the Stars_2018_French
+53,Secret Agent,2011,English,Romance,13-17,7.2,Secret Agent_2011_English
+280,Shadow Hunter,2019,Korean,Drama,25-34,7.2,Shadow Hunter_2019_Korean
+81,Parallel Lives,2024,Korean,Drama,13-17,6.7,Parallel Lives_2024_Korean
+202,Parallel Lives,2014,English,Sci-Fi,45+,6.8,Parallel Lives_2014_English
+158,Code Breaker,2019,English,Romance,25-34,5.6,Code Breaker_2019_English
+120,Parallel Lives,2013,Spanish,Sci-Fi,45+,8.3,Parallel Lives_2013_Spanish
+59,The Lost Kingdom,2015,Korean,Drama,35-44,5.1,The Lost Kingdom_2015_Korean
+215,Final Verdict,2015,French,Romance,35-44,5.9,Final Verdict_2015_French
+128,Midnight Chase,2020,Japanese,Adventure,35-44,9.3,Midnight Chase_2020_Japanese
+224,The Silent House,2025,Hindi,Thriller,45+,7.2,The Silent House_2025_Hindi
+209,Shadow Hunter,2011,Japanese,Horror,45+,7.3,Shadow Hunter_2011_Japanese
+115,Love in Winter,2011,Spanish,Crime,45+,7.8,Love in Winter_2011_Spanish
+14,Dream Makers,2010,English,Thriller,45+,5.6,Dream Makers_2010_English
+9,Digital Age,2018,Korean,Adventure,35-44,6.6,Digital Age_2018_Korean
+40,Hidden Truth,2023,French,Drama,18-24,6.1,Hidden Truth_2023_French
+237,Broken Roads,2023,Spanish,Adventure,45+,7.0,Broken Roads_2023_Spanish
+281,Final Verdict,2022,English,Sci-Fi,18-24,7.6,Final Verdict_2022_English
+201,Campus Days,2016,Japanese,Romance,35-44,8.6,Campus Days_2016_Japanese
+246,Broken Roads,2025,French,Horror,45+,8.0,Broken Roads_2025_French
+278,Code Breaker,2021,Japanese,Animation,13-17,6.0,Code Breaker_2021_Japanese
+235,Campus Days,2016,Hindi,Sci-Fi,13-17,6.7,Campus Days_2016_Hindi
+4,Broken Roads,2024,Spanish,Thriller,18-24,6.4,Broken Roads_2024_Spanish
+154,Wild Frontier,2012,French,Sci-Fi,13-17,6.0,Wild Frontier_2012_French
+29,Wild Frontier,2024,French,Thriller,13-17,5.7,Wild Frontier_2024_French
+109,Dream Makers,2020,Japanese,Animation,13-17,8.9,Dream Makers_2020_Japanese
+98,Hidden Truth,2024,English,Action,35-44,7.1,Hidden Truth_2024_English
+215,The Lost Kingdom,2021,Hindi,Horror,13-17,6.9,The Lost Kingdom_2021_Hindi
+293,Wild Frontier,2012,Japanese,Crime,25-34,7.6,Wild Frontier_2012_Japanese
+75,Love in Winter,2010,French,Crime,45+,7.7,Love in Winter_2010_French
+146,Love in Winter,2012,Spanish,Comedy,13-17,8.3,Love in Winter_2012_Spanish
+42,Campus Days,2013,Korean,Action,13-17,7.5,Campus Days_2013_Korean
+41,Dream Makers,2013,Spanish,Crime,25-34,6.1,Dream Makers_2013_Spanish
+34,Love in Winter,2012,Spanish,Sci-Fi,13-17,6.9,Love in Winter_2012_Spanish
+17,Beyond the Stars,2025,French,Adventure,13-17,7.2,Beyond the Stars_2025_French
+165,Code Breaker,2019,English,Action,45+,7.3,Code Breaker_2019_English
+153,Beyond the Stars,2025,Spanish,Romance,25-34,7.2,Beyond the Stars_2025_Spanish
+76,Midnight Chase,2021,Korean,Romance,25-34,8.0,Midnight Chase_2021_Korean
+87,Midnight Chase,2017,Japanese,Unknown,13-17,6.4,Midnight Chase_2017_Japanese
+117,Digital Age,2017,English,Thriller,25-34,7.3,Digital Age_2017_English
+27,Hidden Truth,2022,English,Thriller,18-24,6.3,Hidden Truth_2022_English
+287,The Last Mission,2022,English,Sci-Fi,25-34,10.0,The Last Mission_2022_English
+134,Beyond the Stars,2010,Spanish,Action,25-34,6.1,Beyond the Stars_2010_Spanish
+219,Code Breaker,2016,English,Action,25-34,6.3,Code Breaker_2016_English
+168,The Silent House,2020,French,Adventure,35-44,8.1,The Silent House_2020_French
+98,The Lost Kingdom,2011,English,Drama,35-44,6.6,The Lost Kingdom_2011_English
+268,Future World,2010,Korean,Romance,35-44,8.1,Future World_2010_Korean
+237,Secret Agent,2012,Hindi,Action,25-34,7.3,Secret Agent_2012_Hindi
+173,Beyond the Stars,2025,Korean,Adventure,18-24,6.7,Beyond the Stars_2025_Korean
+190,Future World,2013,Spanish,Animation,25-34,6.3,Future World_2013_Spanish
+122,Dream Makers,2022,Unknown,Comedy,13-17,6.2,Dream Makers_2022_Unknown
+46,Midnight Chase,2015,English,Animation,18-24,6.7,Midnight Chase_2015_English
+64,Hidden Truth,2019,French,Horror,35-44,6.9,Hidden Truth_2019_French
+130,The Lost Kingdom,2025,Japanese,Sci-Fi,45+,6.2,The Lost Kingdom_2025_Japanese
+193,Dream Makers,2023,English,Action,18-24,7.0,Dream Makers_2023_English
+181,Shadow Hunter,2014,Korean,Horror,35-44,5.9,Shadow Hunter_2014_Korean
+292,Shadow Hunter,2025,Spanish,Crime,18-24,7.9,Shadow Hunter_2025_Spanish
+282,Dream Makers,2024,Hindi,Horror,18-24,8.1,Dream Makers_2024_Hindi
+29,Broken Roads,2024,English,Adventure,25-34,6.3,Broken Roads_2024_English
+149,Code Breaker,2023,Hindi,Action,13-17,6.3,Code Breaker_2023_Hindi
+267,Future World,2013,English,Comedy,45+,7.3,Future World_2013_English
+296,The Silent House,2017,Spanish,Adventure,35-44,8.5,The Silent House_2017_Spanish
+11,Broken Roads,2020,Japanese,Adventure,18-24,8.7,Broken Roads_2020_Japanese
+164,Beyond the Stars,2025,Korean,Sci-Fi,45+,5.6,Beyond the Stars_2025_Korean
+113,Final Verdict,2021,Spanish,Sci-Fi,18-24,8.2,Final Verdict_2021_Spanish
+187,Secret Agent,2025,Hindi,Romance,13-17,7.0,Secret Agent_2025_Hindi
+295,Digital Age,2023,English,Romance,45+,7.1,Digital Age_2023_English
+232,Final Verdict,2013,Hindi,Thriller,35-44,7.7,Final Verdict_2013_Hindi
+227,Beyond the Stars,2022,Korean,Drama,18-24,6.6,Beyond the Stars_2022_Korean
+98,Digital Age,2019,Spanish,Action,13-17,8.3,Digital Age_2019_Spanish
+55,The Last Mission,2021,Hindi,Action,45+,8.7,The Last Mission_2021_Hindi
+111,Midnight Chase,2025,Hindi,Horror,18-24,8.7,Midnight Chase_2025_Hindi
+152,Code Breaker,2022,Unknown,Action,18-24,5.1,Code Breaker_2022_Unknown
+246,Parallel Lives,2011,English,Action,35-44,6.8,Parallel Lives_2011_English
+69,Digital Age,2024,Hindi,Drama,13-17,5.0,Digital Age_2024_Hindi
+289,Final Verdict,2012,Korean,Crime,25-34,6.3,Final Verdict_2012_Korean
+250,Secret Agent,2015,English,Romance,18-24,4.5,Secret Agent_2015_English
+36,Parallel Lives,2017,Japanese,Romance,45+,7.6,Parallel Lives_2017_Japanese
+239,Shadow Hunter,2017,English,Comedy,35-44,7.3,Shadow Hunter_2017_English
+148,Midnight Chase,2024,Japanese,Action,35-44,6.6,Midnight Chase_2024_Japanese
+227,Dream Makers,2020,Spanish,Drama,18-24,6.2,Dream Makers_2020_Spanish
+244,Future World,2024,Korean,Romance,18-24,7.4,Future World_2024_Korean
+201,The Lost Kingdom,2018,English,Drama,18-24,6.0,The Lost Kingdom_2018_English
+154,Love in Winter,2016,Japanese,Animation,25-34,5.9,Love in Winter_2016_Japanese
+73,Digital Age,2022,Japanese,Crime,18-24,5.8,Digital Age_2022_Japanese
+201,Love in Winter,2011,Spanish,Action,13-17,6.9,Love in Winter_2011_Spanish
+296,Hidden Truth,2017,French,Comedy,45+,6.5,Hidden Truth_2017_French
+17,Love in Winter,2016,Korean,Horror,18-24,6.7,Love in Winter_2016_Korean
+129,Campus Days,2017,French,Romance,25-34,7.7,Campus Days_2017_French
+217,Wild Frontier,2021,English,Animation,45+,8.2,Wild Frontier_2021_English
+61,Wild Frontier,2012,Korean,Drama,35-44,8.7,Wild Frontier_2012_Korean
+104,Future World,2016,Spanish,Unknown,18-24,7.2,Future World_2016_Spanish
+42,The Silent House,2019,Unknown,Adventure,45+,7.5,The Silent House_2019_Unknown
+25,The Last Mission,2022,Korean,Action,35-44,7.3,The Last Mission_2022_Korean
+39,Digital Age,2018,Korean,Action,25-34,5.3,Digital Age_2018_Korean
+291,Beyond the Stars,2025,French,Animation,13-17,6.7,Beyond the Stars_2025_French
+131,Dream Makers,2012,English,Drama,18-24,6.7,Dream Makers_2012_English
+229,Midnight Chase,2023,Spanish,Thriller,13-17,6.5,Midnight Chase_2023_Spanish
+108,The Last Mission,2019,Spanish,Action,25-34,7.1,The Last Mission_2019_Spanish
+172,Campus Days,2015,English,Thriller,45+,6.9,Campus Days_2015_English
+102,City Lights,2011,English,Sci-Fi,45+,6.0,City Lights_2011_English
+12,Final Verdict,2011,Japanese,Animation,25-34,6.9,Final Verdict_2011_Japanese
+275,The Silent House,2014,Hindi,Drama,25-34,6.4,The Silent House_2014_Hindi
+101,Midnight Chase,2014,French,Drama,18-24,4.2,Midnight Chase_2014_French
+44,Campus Days,2022,English,Crime,35-44,5.6,Campus Days_2022_English
+17,Campus Days,2016,English,Adventure,13-17,7.2,Campus Days_2016_English
+57,City Lights,2021,Hindi,Romance,13-17,8.3,City Lights_2021_Hindi
+12,Code Breaker,2011,Hindi,Romance,45+,4.4,Code Breaker_2011_Hindi
+80,The Lost Kingdom,2020,Korean,Horror,45+,6.1,The Lost Kingdom_2020_Korean
+216,Code Breaker,2023,Spanish,Comedy,18-24,7.6,Code Breaker_2023_Spanish
+264,City Lights,2022,French,Animation,25-34,8.1,City Lights_2022_French
+149,The Last Mission,2016,Korean,Sci-Fi,13-17,6.6,The Last Mission_2016_Korean
+81,Dream Makers,2014,English,Drama,18-24,6.3,Dream Makers_2014_English
+215,Love in Winter,2023,Hindi,Adventure,45+,8.4,Love in Winter_2023_Hindi
+198,City Lights,2015,Japanese,Thriller,45+,8.0,City Lights_2015_Japanese
+200,Shadow Hunter,2017,Spanish,Animation,13-17,8.0,Shadow Hunter_2017_Spanish
+25,City Lights,2019,Korean,Horror,45+,6.6,City Lights_2019_Korean
+89,Dream Makers,2022,Japanese,Animation,45+,8.3,Dream Makers_2022_Japanese
+268,City Lights,2023,Spanish,Horror,35-44,5.0,City Lights_2023_Spanish
+143,Shadow Hunter,2021,Japanese,Drama,25-34,8.3,Shadow Hunter_2021_Japanese
+59,Shadow Hunter,2013,Hindi,Comedy,45+,7.0,Shadow Hunter_2013_Hindi
+26,Wild Frontier,2022,Korean,Horror,35-44,7.2,Wild Frontier_2022_Korean
+47,Midnight Chase,2016,Korean,Drama,18-24,6.1,Midnight Chase_2016_Korean
+288,Future World,2015,Spanish,Drama,45+,5.1,Future World_2015_Spanish
+266,Parallel Lives,2025,Japanese,Comedy,18-24,7.2,Parallel Lives_2025_Japanese
+16,Ocean Quest,2019,Hindi,Romance,45+,7.7,Ocean Quest_2019_Hindi
+199,Code Breaker,2011,English,Animation,13-17,7.9,Code Breaker_2011_English
+282,Dream Makers,2024,Korean,Action,35-44,7.8,Dream Makers_2024_Korean
+86,Hidden Truth,2017,English,Action,35-44,7.5,Hidden Truth_2017_English
+250,Wild Frontier,2019,Hindi,Thriller,13-17,6.1,Wild Frontier_2019_Hindi
+270,Campus Days,2025,Korean,Thriller,25-34,7.9,Campus Days_2025_Korean
+117,Midnight Chase,2018,Korean,Action,35-44,6.0,Midnight Chase_2018_Korean
+7,Secret Agent,2014,Japanese,Sci-Fi,18-24,8.3,Secret Agent_2014_Japanese
+137,Beyond the Stars,2019,English,Action,35-44,7.0,Beyond the Stars_2019_English
+176,The Lost Kingdom,2013,Japanese,Thriller,25-34,7.0,The Lost Kingdom_2013_Japanese
+215,Secret Agent,2015,French,Adventure,18-24,8.1,Secret Agent_2015_French
+82,Parallel Lives,2025,English,Thriller,18-24,8.2,Parallel Lives_2025_English
+223,Ocean Quest,2017,English,Sci-Fi,13-17,7.9,Ocean Quest_2017_English
+103,Parallel Lives,2020,French,Animation,45+,6.2,Parallel Lives_2020_French
+273,Secret Agent,2024,Hindi,Action,13-17,7.9,Secret Agent_2024_Hindi
+14,The Lost Kingdom,2012,Hindi,Comedy,45+,6.2,The Lost Kingdom_2012_Hindi
+159,The Silent House,2019,Korean,Adventure,13-17,8.0,The Silent House_2019_Korean
+152,Ocean Quest,2020,Spanish,Drama,45+,5.5,Ocean Quest_2020_Spanish
+108,Campus Days,2020,Japanese,Sci-Fi,35-44,7.0,Campus Days_2020_Japanese
+188,City Lights,2010,Spanish,Thriller,18-24,6.2,City Lights_2010_Spanish
+98,Hidden Truth,2025,Korean,Comedy,45+,8.1,Hidden Truth_2025_Korean
+131,Ocean Quest,2013,Spanish,Horror,35-44,8.3,Ocean Quest_2013_Spanish
+293,Future World,2024,English,Romance,25-34,7.3,Future World_2024_English
+171,The Last Mission,2013,English,Action,13-17,7.3,The Last Mission_2013_English
+183,Dream Makers,2010,French,Romance,25-34,7.9,Dream Makers_2010_French
+39,Secret Agent,2018,French,Sci-Fi,35-44,8.3,Secret Agent_2018_French
+15,Hidden Truth,2012,Korean,Horror,25-34,7.1,Hidden Truth_2012_Korean
+4,Code Breaker,2014,Korean,Horror,25-34,6.6,Code Breaker_2014_Korean
+210,Midnight Chase,2025,Korean,Horror,35-44,7.8,Midnight Chase_2025_Korean
+161,Secret Agent,2015,English,Drama,18-24,5.1,Secret Agent_2015_English
+16,Digital Age,2017,Spanish,Sci-Fi,45+,8.1,Digital Age_2017_Spanish
+108,Final Verdict,2015,Japanese,Animation,13-17,6.3,Final Verdict_2015_Japanese
+227,Wild Frontier,2012,Korean,Romance,45+,6.8,Wild Frontier_2012_Korean
+170,Love in Winter,2015,Korean,Animation,13-17,8.1,Love in Winter_2015_Korean
+34,Wild Frontier,2010,English,Comedy,45+,6.6,Wild Frontier_2010_English
+251,Final Verdict,2013,Japanese,Crime,25-34,7.8,Final Verdict_2013_Japanese
+247,Future World,2015,English,Adventure,18-24,8.4,Future World_2015_English
+269,Dream Makers,2025,Japanese,Adventure,25-34,7.2,Dream Makers_2025_Japanese
+141,Ocean Quest,2016,English,Animation,18-24,7.4,Ocean Quest_2016_English
+274,The Silent House,2020,Spanish,Crime,35-44,7.0,The Silent House_2020_Spanish
+96,Beyond the Stars,2022,Korean,Crime,13-17,7.2,Beyond the Stars_2022_Korean
+227,Love in Winter,2020,Hindi,Action,13-17,5.9,Love in Winter_2020_Hindi
+39,Ocean Quest,2019,Hindi,Comedy,35-44,6.8,Ocean Quest_2019_Hindi
+29,The Silent House,2012,Korean,Sci-Fi,45+,5.7,The Silent House_2012_Korean
+245,Parallel Lives,2018,Korean,Crime,35-44,6.1,Parallel Lives_2018_Korean
+236,Parallel Lives,2021,Korean,Thriller,35-44,4.9,Parallel Lives_2021_Korean
+185,Shadow Hunter,2021,Korean,Adventure,18-24,7.4,Shadow Hunter_2021_Korean
+272,The Lost Kingdom,2016,Japanese,Thriller,35-44,9.0,The Lost Kingdom_2016_Japanese
+236,Ocean Quest,2023,Spanish,Comedy,13-17,6.6,Ocean Quest_2023_Spanish
+239,Digital Age,2010,Hindi,Crime,25-34,8.2,Digital Age_2010_Hindi
+266,Dream Makers,2011,French,Romance,18-24,8.3,Dream Makers_2011_French
+65,Secret Agent,2010,Hindi,Adventure,18-24,5.8,Secret Agent_2010_Hindi
+177,Code Breaker,2020,Hindi,Action,45+,6.0,Code Breaker_2020_Hindi
+3,Future World,2018,English,Action,25-34,8.2,Future World_2018_English
+142,City Lights,2018,Korean,Horror,18-24,7.0,City Lights_2018_Korean
+158,Midnight Chase,2016,Korean,Drama,35-44,5.7,Midnight Chase_2016_Korean
+146,Shadow Hunter,2019,Korean,Crime,18-24,6.4,Shadow Hunter_2019_Korean
+293,Hidden Truth,2012,English,Comedy,18-24,7.6,Hidden Truth_2012_English
+153,Broken Roads,2022,Spanish,Adventure,18-24,6.2,Broken Roads_2022_Spanish
+193,Hidden Truth,2024,Spanish,Drama,45+,4.0,Hidden Truth_2024_Spanish
+73,Digital Age,2014,French,Comedy,18-24,6.7,Digital Age_2014_French
+140,Final Verdict,2024,Spanish,Animation,18-24,6.8,Final Verdict_2024_Spanish
+293,Code Breaker,2025,Korean,Sci-Fi,25-34,8.5,Code Breaker_2025_Korean
+61,The Last Mission,2016,Japanese,Sci-Fi,13-17,7.2,The Last Mission_2016_Japanese
+198,The Last Mission,2023,Hindi,Crime,45+,7.4,The Last Mission_2023_Hindi
+295,Ocean Quest,2018,Spanish,Horror,45+,8.3,Ocean Quest_2018_Spanish
+11,Love in Winter,2021,Spanish,Horror,18-24,7.1,Love in Winter_2021_Spanish
+62,Shadow Hunter,2011,English,Sci-Fi,18-24,9.5,Shadow Hunter_2011_English
+226,Final Verdict,2022,French,Romance,13-17,5.7,Final Verdict_2022_French
+153,Love in Winter,2017,Japanese,Adventure,18-24,6.1,Love in Winter_2017_Japanese
+199,Beyond the Stars,2025,English,Sci-Fi,35-44,7.8,Beyond the Stars_2025_English
+52,Code Breaker,2024,Korean,Romance,18-24,8.5,Code Breaker_2024_Korean
+260,The Lost Kingdom,2018,Hindi,Drama,18-24,6.9,The Lost Kingdom_2018_Hindi
+59,Wild Frontier,2019,French,Romance,35-44,6.0,Wild Frontier_2019_French
+72,The Silent House,2023,English,Drama,13-17,9.0,The Silent House_2023_English
+148,Future World,2019,Spanish,Comedy,35-44,6.2,Future World_2019_Spanish
+63,Final Verdict,2018,Spanish,Thriller,45+,7.5,Final Verdict_2018_Spanish
+243,The Lost Kingdom,2023,French,Comedy,35-44,8.5,The Lost Kingdom_2023_French
+107,Shadow Hunter,2019,Spanish,Sci-Fi,25-34,6.6,Shadow Hunter_2019_Spanish
+226,The Last Mission,2023,English,Drama,45+,6.4,The Last Mission_2023_English
+218,Broken Roads,2016,Unknown,Sci-Fi,18-24,6.5,Broken Roads_2016_Unknown
+241,Broken Roads,2024,Spanish,Crime,45+,8.1,Broken Roads_2024_Spanish
+259,City Lights,2018,Spanish,Adventure,13-17,8.3,City Lights_2018_Spanish
+262,Beyond the Stars,2018,Korean,Action,13-17,7.1,Beyond the Stars_2018_Korean
+5,Code Breaker,2023,Hindi,Sci-Fi,35-44,9.2,Code Breaker_2023_Hindi
+261,Love in Winter,2012,French,Adventure,45+,7.1,Love in Winter_2012_French
+54,Hidden Truth,2013,English,Romance,18-24,8.5,Hidden Truth_2013_English
+47,The Last Mission,2025,French,Comedy,13-17,6.6,The Last Mission_2025_French
+215,Beyond the Stars,2011,Korean,Romance,18-24,9.7,Beyond the Stars_2011_Korean
+177,Secret Agent,2019,English,Action,25-34,8.8,Secret Agent_2019_English
+9,City Lights,2012,Korean,Drama,13-17,7.0,City Lights_2012_Korean
+99,Love in Winter,2020,Korean,Crime,35-44,8.7,Love in Winter_2020_Korean
+20,Hidden Truth,2020,Japanese,Adventure,25-34,8.6,Hidden Truth_2020_Japanese
+241,The Silent House,2014,Spanish,Crime,45+,8.8,The Silent House_2014_Spanish
+61,Secret Agent,2014,Japanese,Thriller,18-24,4.4,Secret Agent_2014_Japanese
+178,Code Breaker,2015,French,Sci-Fi,13-17,7.9,Code Breaker_2015_French
+62,Digital Age,2022,French,Drama,25-34,7.7,Digital Age_2022_French
+145,Code Breaker,2016,Spanish,Thriller,25-34,7.6,Code Breaker_2016_Spanish
+216,Wild Frontier,2016,Japanese,Animation,13-17,7.3,Wild Frontier_2016_Japanese
+3,Future World,2010,French,Sci-Fi,45+,7.4,Future World_2010_French
+160,Final Verdict,2025,Unknown,Romance,45+,8.5,Final Verdict_2025_Unknown
+227,City Lights,2023,Spanish,Comedy,35-44,7.7,City Lights_2023_Spanish
+269,Parallel Lives,2025,English,Adventure,45+,7.3,Parallel Lives_2025_English
+120,Future World,2011,Korean,Action,35-44,8.4,Future World_2011_Korean
+89,Future World,2021,Korean,Action,25-34,7.6,Future World_2021_Korean
+68,The Silent House,2018,Japanese,Romance,13-17,7.7,The Silent House_2018_Japanese
+98,City Lights,2019,French,Horror,45+,9.2,City Lights_2019_French
+267,Hidden Truth,2011,Japanese,Action,35-44,6.6,Hidden Truth_2011_Japanese
+105,Future World,2015,Japanese,Adventure,25-34,5.4,Future World_2015_Japanese
+123,Shadow Hunter,2020,Hindi,Romance,45+,7.2,Shadow Hunter_2020_Hindi
+29,The Last Mission,2020,Korean,Drama,18-24,7.3,The Last Mission_2020_Korean
+137,Hidden Truth,2025,Spanish,Action,25-34,7.9,Hidden Truth_2025_Spanish
+195,Secret Agent,2010,Japanese,Crime,45+,7.2,Secret Agent_2010_Japanese
+226,City Lights,2012,Hindi,Romance,25-34,7.9,City Lights_2012_Hindi
+170,The Silent House,2011,Hindi,Adventure,13-17,9.9,The Silent House_2011_Hindi
+9,Wild Frontier,2012,Korean,Crime,13-17,8.0,Wild Frontier_2012_Korean
+40,Parallel Lives,2014,Korean,Sci-Fi,13-17,8.2,Parallel Lives_2014_Korean
+25,Digital Age,2020,Korean,Sci-Fi,18-24,7.0,Digital Age_2020_Korean
+261,Final Verdict,2019,Spanish,Action,13-17,5.6,Final Verdict_2019_Spanish
+226,Shadow Hunter,2025,Hindi,Crime,18-24,4.6,Shadow Hunter_2025_Hindi
+124,Campus Days,2015,French,Comedy,13-17,6.5,Campus Days_2015_French
+38,Love in Winter,2018,Spanish,Sci-Fi,25-34,4.3,Love in Winter_2018_Spanish
+251,Future World,2021,English,Comedy,45+,7.7,Future World_2021_English
+176,Final Verdict,2020,Japanese,Drama,45+,6.7,Final Verdict_2020_Japanese
+90,Parallel Lives,2024,Korean,Romance,13-17,5.7,Parallel Lives_2024_Korean
+37,Hidden Truth,2024,Hindi,Thriller,45+,7.2,Hidden Truth_2024_Hindi
+176,The Last Mission,2025,Japanese,Adventure,13-17,6.3,The Last Mission_2025_Japanese
+284,Secret Agent,2019,Spanish,Romance,13-17,7.6,Secret Agent_2019_Spanish
+81,Shadow Hunter,2021,English,Adventure,35-44,7.9,Shadow Hunter_2021_English
+114,City Lights,2021,Spanish,Crime,35-44,6.3,City Lights_2021_Spanish
+40,City Lights,2022,Spanish,Drama,35-44,6.8,City Lights_2022_Spanish
+224,Hidden Truth,2013,French,Animation,18-24,7.3,Hidden Truth_2013_French
+115,Ocean Quest,2016,Japanese,Action,35-44,5.6,Ocean Quest_2016_Japanese
+186,Parallel Lives,2015,French,Adventure,13-17,7.3,Parallel Lives_2015_French
+56,Midnight Chase,2011,Spanish,Adventure,25-34,5.5,Midnight Chase_2011_Spanish
+40,Code Breaker,2019,English,Crime,35-44,7.7,Code Breaker_2019_English
+40,The Silent House,2020,Hindi,Comedy,35-44,6.6,The Silent House_2020_Hindi
+237,Secret Agent,2020,Hindi,Romance,25-34,5.5,Secret Agent_2020_Hindi
+289,The Last Mission,2020,Japanese,Animation,13-17,6.5,The Last Mission_2020_Japanese
+262,Ocean Quest,2024,Korean,Horror,18-24,6.5,Ocean Quest_2024_Korean
+216,Hidden Truth,2024,Korean,Action,35-44,8.3,Hidden Truth_2024_Korean
+147,Beyond the Stars,2017,Hindi,Thriller,25-34,7.3,Beyond the Stars_2017_Hindi
+168,Parallel Lives,2016,Spanish,Horror,13-17,6.0,Parallel Lives_2016_Spanish
+92,Code Breaker,2024,Spanish,Romance,45+,8.9,Code Breaker_2024_Spanish
+59,Parallel Lives,2024,French,Action,18-24,7.8,Parallel Lives_2024_French
+59,Hidden Truth,2016,Japanese,Adventure,25-34,6.7,Hidden Truth_2016_Japanese
+169,The Lost Kingdom,2023,French,Thriller,25-34,5.4,The Lost Kingdom_2023_French
+269,Secret Agent,2024,Korean,Comedy,25-34,6.6,Secret Agent_2024_Korean
+45,The Lost Kingdom,2017,Hindi,Animation,35-44,6.9,The Lost Kingdom_2017_Hindi
+181,Beyond the Stars,2021,Spanish,Comedy,45+,7.5,Beyond the Stars_2021_Spanish
+170,Future World,2021,Hindi,Drama,18-24,7.8,Future World_2021_Hindi
+191,Campus Days,2022,English,Crime,13-17,8.0,Campus Days_2022_English
+155,Midnight Chase,2023,Hindi,Action,13-17,5.3,Midnight Chase_2023_Hindi
+188,The Silent House,2020,English,Comedy,45+,7.3,The Silent House_2020_English
+7,Hidden Truth,2010,French,Horror,25-34,6.9,Hidden Truth_2010_French
+133,Broken Roads,2024,French,Crime,25-34,10.0,Broken Roads_2024_French
+235,Parallel Lives,2022,Korean,Comedy,25-34,7.2,Parallel Lives_2022_Korean
+45,Digital Age,2010,Hindi,Sci-Fi,25-34,6.4,Digital Age_2010_Hindi
+249,Wild Frontier,2017,Hindi,Drama,25-34,7.2,Wild Frontier_2017_Hindi
+31,The Last Mission,2013,English,Romance,45+,7.1,The Last Mission_2013_English
+23,Code Breaker,2014,French,Animation,35-44,4.9,Code Breaker_2014_French
+160,City Lights,2017,English,Drama,18-24,7.5,City Lights_2017_English
+158,The Lost Kingdom,2014,French,Crime,25-34,6.8,The Lost Kingdom_2014_French
+39,Code Breaker,2019,English,Sci-Fi,35-44,7.1,Code Breaker_2019_English
+82,The Lost Kingdom,2025,French,Action,13-17,6.1,The Lost Kingdom_2025_French
+258,Beyond the Stars,2013,English,Horror,45+,5.9,Beyond the Stars_2013_English
+206,Ocean Quest,2021,French,Animation,35-44,8.1,Ocean Quest_2021_French
+77,Hidden Truth,2015,Japanese,Animation,25-34,8.3,Hidden Truth_2015_Japanese
+12,Wild Frontier,2022,English,Drama,25-34,7.6,Wild Frontier_2022_English
+295,The Lost Kingdom,2024,Hindi,Crime,25-34,5.1,The Lost Kingdom_2024_Hindi
+224,Secret Agent,2021,Korean,Action,35-44,7.6,Secret Agent_2021_Korean
+13,Campus Days,2014,Japanese,Adventure,25-34,5.1,Campus Days_2014_Japanese
+46,Ocean Quest,2023,Japanese,Sci-Fi,35-44,6.4,Ocean Quest_2023_Japanese
+155,The Lost Kingdom,2016,English,Adventure,25-34,8.1,The Lost Kingdom_2016_English
+113,Code Breaker,2025,Korean,Horror,13-17,7.8,Code Breaker_2025_Korean
+233,Shadow Hunter,2023,Hindi,Action,13-17,7.6,Shadow Hunter_2023_Hindi
+17,Wild Frontier,2019,Japanese,Action,18-24,8.5,Wild Frontier_2019_Japanese
+223,The Lost Kingdom,2016,Hindi,Sci-Fi,25-34,7.7,The Lost Kingdom_2016_Hindi
+188,Wild Frontier,2022,French,Thriller,25-34,4.9,Wild Frontier_2022_French
+163,Hidden Truth,2013,Korean,Adventure,35-44,6.7,Hidden Truth_2013_Korean
+74,Dream Makers,2021,Spanish,Comedy,35-44,7.1,Dream Makers_2021_Spanish
+233,Wild Frontier,2022,French,Animation,25-34,6.9,Wild Frontier_2022_French
+224,The Silent House,2014,Korean,Thriller,18-24,6.4,The Silent House_2014_Korean
+60,Secret Agent,2022,English,Comedy,25-34,6.0,Secret Agent_2022_English
+222,Broken Roads,2012,English,Crime,35-44,9.7,Broken Roads_2012_English
+37,Midnight Chase,2024,Hindi,Sci-Fi,25-34,6.7,Midnight Chase_2024_Hindi
+278,The Lost Kingdom,2013,Japanese,Crime,35-44,9.7,The Lost Kingdom_2013_Japanese
+196,The Silent House,2024,Spanish,Animation,25-34,5.8,The Silent House_2024_Spanish
+242,Wild Frontier,2023,English,Romance,45+,7.8,Wild Frontier_2023_English
+219,Parallel Lives,2013,Korean,Comedy,35-44,7.4,Parallel Lives_2013_Korean
+192,Secret Agent,2012,Japanese,Thriller,18-24,6.1,Secret Agent_2012_Japanese
+17,The Lost Kingdom,2022,Japanese,Comedy,45+,6.6,The Lost Kingdom_2022_Japanese
+12,Code Breaker,2019,Korean,Comedy,25-34,7.1,Code Breaker_2019_Korean
+193,Beyond the Stars,2014,Japanese,Sci-Fi,35-44,6.2,Beyond the Stars_2014_Japanese
+22,Ocean Quest,2025,English,Crime,45+,6.8,Ocean Quest_2025_English
+120,Campus Days,2014,Korean,Adventure,18-24,4.5,Campus Days_2014_Korean
+210,The Silent House,2020,Korean,Romance,35-44,7.9,The Silent House_2020_Korean
+270,The Last Mission,2016,Hindi,Sci-Fi,45+,8.4,The Last Mission_2016_Hindi
+192,Secret Agent,2013,Spanish,Horror,45+,7.6,Secret Agent_2013_Spanish
+175,The Lost Kingdom,2022,Hindi,Sci-Fi,45+,9.6,The Lost Kingdom_2022_Hindi
+285,Final Verdict,2013,Spanish,Animation,13-17,7.9,Final Verdict_2013_Spanish
+204,Hidden Truth,2018,Korean,Romance,25-34,8.4,Hidden Truth_2018_Korean
+164,The Silent House,2015,Japanese,Action,35-44,8.5,The Silent House_2015_Japanese
+251,The Lost Kingdom,2024,Spanish,Horror,35-44,4.1,The Lost Kingdom_2024_Spanish
+227,The Silent House,2013,Korean,Drama,35-44,7.6,The Silent House_2013_Korean
+7,Beyond the Stars,2011,Korean,Sci-Fi,45+,5.6,Beyond the Stars_2011_Korean
+29,Beyond the Stars,2015,Hindi,Comedy,25-34,5.8,Beyond the Stars_2015_Hindi
+33,Ocean Quest,2025,Hindi,Adventure,18-24,6.0,Ocean Quest_2025_Hindi
+134,City Lights,2025,Japanese,Action,35-44,6.8,City Lights_2025_Japanese
+79,The Silent House,2011,French,Sci-Fi,25-34,7.8,The Silent House_2011_French
+58,The Lost Kingdom,2014,English,Sci-Fi,25-34,7.6,The Lost Kingdom_2014_English
+26,The Silent House,2015,French,Thriller,13-17,7.1,The Silent House_2015_French
+226,Shadow Hunter,2013,French,Thriller,35-44,7.9,Shadow Hunter_2013_French
+285,Campus Days,2023,Japanese,Action,45+,8.0,Campus Days_2023_Japanese
+4,Shadow Hunter,2022,Spanish,Crime,25-34,7.6,Shadow Hunter_2022_Spanish
+99,Future World,2012,Japanese,Thriller,25-34,5.2,Future World_2012_Japanese
+39,Hidden Truth,2016,Japanese,Comedy,18-24,6.3,Hidden Truth_2016_Japanese
+271,Final Verdict,2011,Korean,Horror,13-17,7.1,Final Verdict_2011_Korean
+285,The Lost Kingdom,2022,Korean,Drama,25-34,7.9,The Lost Kingdom_2022_Korean
+157,Digital Age,2020,Korean,Romance,25-34,5.6,Digital Age_2020_Korean
+75,Love in Winter,2023,English,Drama,45+,7.1,Love in Winter_2023_English
+288,Shadow Hunter,2015,Spanish,Drama,45+,5.4,Shadow Hunter_2015_Spanish
+130,Secret Agent,2022,Spanish,Romance,18-24,8.2,Secret Agent_2022_Spanish
+175,Love in Winter,2013,Korean,Thriller,18-24,7.4,Love in Winter_2013_Korean
+84,Hidden Truth,2015,French,Action,18-24,5.6,Hidden Truth_2015_French
+22,Future World,2013,English,Romance,45+,5.6,Future World_2013_English
+27,The Last Mission,2013,French,Animation,45+,7.5,The Last Mission_2013_French
+195,The Silent House,2024,Hindi,Crime,13-17,8.6,The Silent House_2024_Hindi
+236,The Silent House,2013,Spanish,Horror,35-44,5.9,The Silent House_2013_Spanish
+92,Beyond the Stars,2018,Spanish,Adventure,35-44,8.0,Beyond the Stars_2018_Spanish
+21,Hidden Truth,2016,French,Thriller,13-17,6.5,Hidden Truth_2016_French
+84,Campus Days,2012,English,Crime,35-44,8.0,Campus Days_2012_English
+262,City Lights,2012,Spanish,Romance,45+,7.9,City Lights_2012_Spanish
+147,The Last Mission,2015,French,Animation,35-44,7.3,The Last Mission_2015_French
+257,Ocean Quest,2015,Japanese,Adventure,45+,5.1,Ocean Quest_2015_Japanese
+58,Broken Roads,2013,Japanese,Horror,13-17,7.8,Broken Roads_2013_Japanese
+15,Parallel Lives,2024,English,Horror,18-24,7.7,Parallel Lives_2024_English
+162,Ocean Quest,2024,French,Thriller,13-17,7.6,Ocean Quest_2024_French
+163,Future World,2018,Japanese,Romance,35-44,7.3,Future World_2018_Japanese
+281,Future World,2013,English,Crime,45+,6.1,Future World_2013_English
+280,The Lost Kingdom,2018,Korean,Action,35-44,8.3,The Lost Kingdom_2018_Korean
+12,Parallel Lives,2025,English,Crime,35-44,8.1,Parallel Lives_2025_English
+274,Parallel Lives,2013,Hindi,Crime,18-24,5.9,Parallel Lives_2013_Hindi
+271,The Silent House,2011,Korean,Horror,35-44,8.5,The Silent House_2011_Korean
+208,Wild Frontier,2011,French,Action,18-24,7.2,Wild Frontier_2011_French
+27,Secret Agent,2014,Korean,Action,45+,7.2,Secret Agent_2014_Korean
+72,Ocean Quest,2013,Korean,Thriller,45+,6.9,Ocean Quest_2013_Korean
+60,Wild Frontier,2016,French,Adventure,18-24,7.0,Wild Frontier_2016_French
+145,Code Breaker,2023,French,Sci-Fi,13-17,8.6,Code Breaker_2023_French
+93,Secret Agent,2020,Japanese,Drama,45+,8.2,Secret Agent_2020_Japanese
+8,Wild Frontier,2014,Hindi,Drama,13-17,8.2,Wild Frontier_2014_Hindi
+79,Beyond the Stars,2015,French,Horror,45+,7.3,Beyond the Stars_2015_French
+27,Midnight Chase,2019,Spanish,Sci-Fi,45+,8.1,Midnight Chase_2019_Spanish
+174,Beyond the Stars,2013,Spanish,Adventure,25-34,6.2,Beyond the Stars_2013_Spanish
+50,Future World,2022,Hindi,Sci-Fi,35-44,7.7,Future World_2022_Hindi
+199,Broken Roads,2021,English,Thriller,35-44,6.9,Broken Roads_2021_English
+181,Hidden Truth,2011,English,Crime,13-17,4.8,Hidden Truth_2011_English
+24,Future World,2022,Spanish,Horror,35-44,5.4,Future World_2022_Spanish
+46,City Lights,2019,French,Action,13-17,6.4,City Lights_2019_French
+15,City Lights,2018,Hindi,Horror,45+,7.6,City Lights_2018_Hindi
+153,The Silent House,2019,English,Drama,25-34,6.4,The Silent House_2019_English
+222,The Last Mission,2024,English,Adventure,25-34,6.4,The Last Mission_2024_English
+206,Ocean Quest,2016,Korean,Sci-Fi,45+,7.9,Ocean Quest_2016_Korean
+236,Code Breaker,2012,French,Thriller,18-24,8.6,Code Breaker_2012_French
+228,Digital Age,2019,Hindi,Horror,35-44,8.4,Digital Age_2019_Hindi
+9,Campus Days,2023,English,Romance,13-17,7.1,Campus Days_2023_English
+214,Code Breaker,2025,Spanish,Action,35-44,7.8,Code Breaker_2025_Spanish
+117,Ocean Quest,2012,Spanish,Horror,45+,6.8,Ocean Quest_2012_Spanish
+72,Wild Frontier,2018,Hindi,Animation,25-34,8.0,Wild Frontier_2018_Hindi
+64,Dream Makers,2014,English,Thriller,13-17,8.2,Dream Makers_2014_English
+205,The Last Mission,2022,Hindi,Comedy,13-17,6.1,The Last Mission_2022_Hindi
+209,Broken Roads,2024,Hindi,Thriller,18-24,7.3,Broken Roads_2024_Hindi
+72,Campus Days,2012,Japanese,Sci-Fi,35-44,7.3,Campus Days_2012_Japanese
+277,Hidden Truth,2024,Korean,Comedy,45+,8.0,Hidden Truth_2024_Korean
+274,Ocean Quest,2014,Spanish,Sci-Fi,25-34,6.6,Ocean Quest_2014_Spanish
+95,The Lost Kingdom,2025,Japanese,Sci-Fi,13-17,6.4,The Lost Kingdom_2025_Japanese
+166,Hidden Truth,2011,French,Action,25-34,7.3,Hidden Truth_2011_French
+32,Shadow Hunter,2020,Spanish,Action,45+,8.4,Shadow Hunter_2020_Spanish
+11,Broken Roads,2013,Spanish,Crime,25-34,5.8,Broken Roads_2013_Spanish
+217,Secret Agent,2019,Korean,Drama,35-44,6.0,Secret Agent_2019_Korean
+289,Campus Days,2011,French,Crime,18-24,6.5,Campus Days_2011_French
+102,Broken Roads,2011,English,Crime,25-34,6.7,Broken Roads_2011_English
+267,Code Breaker,2021,French,Drama,18-24,5.2,Code Breaker_2021_French
+214,Campus Days,2017,English,Romance,45+,8.7,Campus Days_2017_English
+179,The Lost Kingdom,2010,French,Comedy,18-24,7.0,The Lost Kingdom_2010_French
+88,Campus Days,2025,Hindi,Adventure,25-34,6.8,Campus Days_2025_Hindi
+41,Ocean Quest,2025,French,Crime,25-34,8.9,Ocean Quest_2025_French
+76,Final Verdict,2025,Japanese,Horror,13-17,7.9,Final Verdict_2025_Japanese
+46,Secret Agent,2023,Japanese,Horror,25-34,6.5,Secret Agent_2023_Japanese
+160,The Last Mission,2016,Korean,Sci-Fi,18-24,7.3,The Last Mission_2016_Korean
+80,Midnight Chase,2014,English,Drama,13-17,7.1,Midnight Chase_2014_English
+86,Campus Days,2024,Spanish,Sci-Fi,25-34,8.7,Campus Days_2024_Spanish
+148,Final Verdict,2017,Japanese,Animation,45+,5.5,Final Verdict_2017_Japanese
+161,The Silent House,2010,Japanese,Adventure,13-17,5.0,The Silent House_2010_Japanese
+202,The Silent House,2020,English,Action,45+,8.7,The Silent House_2020_English
+242,Love in Winter,2016,Japanese,Action,45+,6.2,Love in Winter_2016_Japanese
+2,Campus Days,2014,Japanese,Drama,45+,7.8,Campus Days_2014_Japanese
+225,The Silent House,2013,English,Drama,35-44,7.2,The Silent House_2013_English
+289,Campus Days,2016,Japanese,Crime,45+,6.6,Campus Days_2016_Japanese
+233,Wild Frontier,2019,Spanish,Animation,18-24,6.8,Wild Frontier_2019_Spanish
+77,Midnight Chase,2024,Hindi,Crime,25-34,8.8,Midnight Chase_2024_Hindi
+116,The Silent House,2011,Korean,Action,35-44,5.5,The Silent House_2011_Korean
+154,Midnight Chase,2021,Spanish,Comedy,45+,6.7,Midnight Chase_2021_Spanish
+103,Broken Roads,2024,Spanish,Comedy,25-34,8.1,Broken Roads_2024_Spanish
+194,Final Verdict,2010,Hindi,Drama,13-17,5.7,Final Verdict_2010_Hindi
+166,The Lost Kingdom,2010,Korean,Sci-Fi,13-17,8.5,The Lost Kingdom_2010_Korean
+90,Wild Frontier,2020,Spanish,Action,25-34,8.1,Wild Frontier_2020_Spanish
+174,Final Verdict,2021,Japanese,Comedy,18-24,7.4,Final Verdict_2021_Japanese
+122,Broken Roads,2025,Hindi,Action,25-34,6.5,Broken Roads_2025_Hindi
+143,The Lost Kingdom,2010,Korean,Thriller,25-34,5.5,The Lost Kingdom_2010_Korean
+106,Broken Roads,2024,French,Horror,35-44,7.9,Broken Roads_2024_French
+123,The Last Mission,2021,English,Animation,13-17,10.0,The Last Mission_2021_English
+9,Ocean Quest,2014,Japanese,Crime,13-17,7.3,Ocean Quest_2014_Japanese
+73,Wild Frontier,2016,English,Horror,25-34,7.6,Wild Frontier_2016_English
+223,Future World,2011,French,Thriller,25-34,8.0,Future World_2011_French
+41,Ocean Quest,2019,Spanish,Crime,18-24,6.1,Ocean Quest_2019_Spanish
+204,Ocean Quest,2017,Spanish,Action,13-17,6.4,Ocean Quest_2017_Spanish
+264,Broken Roads,2013,Korean,Drama,18-24,6.3,Broken Roads_2013_Korean
+178,Future World,2021,Unknown,Horror,35-44,6.5,Future World_2021_Unknown
+84,Shadow Hunter,2012,Hindi,Crime,45+,6.9,Shadow Hunter_2012_Hindi
+111,The Last Mission,2019,Korean,Action,18-24,6.2,The Last Mission_2019_Korean
+251,Broken Roads,2020,English,Horror,13-17,5.7,Broken Roads_2020_English
+7,Midnight Chase,2017,Spanish,Thriller,35-44,7.3,Midnight Chase_2017_Spanish
+84,Love in Winter,2011,Spanish,Action,25-34,6.9,Love in Winter_2011_Spanish
+208,Ocean Quest,2020,Hindi,Action,35-44,6.6,Ocean Quest_2020_Hindi
+22,The Lost Kingdom,2020,Hindi,Action,18-24,7.2,The Lost Kingdom_2020_Hindi
+3,Broken Roads,2022,Korean,Adventure,13-17,5.4,Broken Roads_2022_Korean
+127,Parallel Lives,2012,French,Drama,18-24,7.4,Parallel Lives_2012_French
+297,Campus Days,2021,English,Thriller,25-34,6.6,Campus Days_2021_English
+188,Parallel Lives,2012,Japanese,Crime,25-34,7.4,Parallel Lives_2012_Japanese
+14,Secret Agent,2019,French,Adventure,13-17,7.5,Secret Agent_2019_French
+12,Digital Age,2020,French,Sci-Fi,45+,8.3,Digital Age_2020_French
+87,Digital Age,2010,Hindi,Adventure,35-44,7.2,Digital Age_2010_Hindi
+12,City Lights,2015,Hindi,Animation,35-44,8.3,City Lights_2015_Hindi
+25,Beyond the Stars,2011,Hindi,Animation,25-34,6.7,Beyond the Stars_2011_Hindi
+243,The Last Mission,2010,French,Action,18-24,6.8,The Last Mission_2010_French
+122,Beyond the Stars,2025,English,Adventure,18-24,7.0,Beyond the Stars_2025_English
+147,Digital Age,2011,Hindi,Sci-Fi,45+,8.0,Digital Age_2011_Hindi
+55,Love in Winter,2021,Spanish,Adventure,18-24,7.8,Love in Winter_2021_Spanish
+238,Wild Frontier,2015,English,Drama,35-44,7.2,Wild Frontier_2015_English
+173,Parallel Lives,2023,Spanish,Drama,18-24,5.7,Parallel Lives_2023_Spanish
+221,Ocean Quest,2013,English,Sci-Fi,45+,7.8,Ocean Quest_2013_English
+119,Secret Agent,2015,Hindi,Adventure,35-44,6.2,Secret Agent_2015_Hindi
+183,Campus Days,2021,Japanese,Horror,18-24,6.1,Campus Days_2021_Japanese
+288,The Last Mission,2018,Korean,Drama,35-44,5.8,The Last Mission_2018_Korean
+300,Future World,2025,Hindi,Drama,25-34,7.0,Future World_2025_Hindi
+82,Wild Frontier,2022,French,Comedy,25-34,8.4,Wild Frontier_2022_French
+211,Parallel Lives,2019,Japanese,Adventure,25-34,6.0,Parallel Lives_2019_Japanese
+150,The Silent House,2021,French,Drama,18-24,8.9,The Silent House_2021_French
+37,Midnight Chase,2019,English,Thriller,45+,8.1,Midnight Chase_2019_English
+59,City Lights,2017,French,Adventure,35-44,5.5,City Lights_2017_French
+131,The Silent House,2010,Japanese,Animation,13-17,6.7,The Silent House_2010_Japanese
+202,Dream Makers,2022,Japanese,Comedy,25-34,6.0,Dream Makers_2022_Japanese
+243,City Lights,2017,Hindi,Drama,25-34,7.8,City Lights_2017_Hindi
+35,Wild Frontier,2018,Spanish,Comedy,13-17,6.0,Wild Frontier_2018_Spanish
+93,Final Verdict,2015,Hindi,Animation,13-17,5.3,Final Verdict_2015_Hindi
+207,Broken Roads,2019,English,Sci-Fi,18-24,6.7,Broken Roads_2019_English
+213,Dream Makers,2024,French,Sci-Fi,35-44,8.4,Dream Makers_2024_French
+159,The Lost Kingdom,2014,Spanish,Adventure,25-34,6.9,The Lost Kingdom_2014_Spanish
+24,Digital Age,2015,Korean,Animation,45+,7.5,Digital Age_2015_Korean
+293,Wild Frontier,2025,Japanese,Romance,18-24,7.6,Wild Frontier_2025_Japanese
+4,The Silent House,2022,Spanish,Romance,18-24,5.4,The Silent House_2022_Spanish
+220,Midnight Chase,2015,Spanish,Adventure,45+,6.1,Midnight Chase_2015_Spanish
+20,Hidden Truth,2018,Hindi,Action,45+,7.1,Hidden Truth_2018_Hindi
+152,Secret Agent,2013,Unknown,Comedy,45+,6.5,Secret Agent_2013_Unknown
+50,Code Breaker,2011,Japanese,Comedy,13-17,9.0,Code Breaker_2011_Japanese
+177,City Lights,2020,English,Sci-Fi,25-34,5.7,City Lights_2020_English
+96,Code Breaker,2020,English,Romance,13-17,6.1,Code Breaker_2020_English
+105,Hidden Truth,2018,Spanish,Crime,25-34,7.4,Hidden Truth_2018_Spanish
+250,Shadow Hunter,2025,Spanish,Drama,13-17,6.4,Shadow Hunter_2025_Spanish
+117,Ocean Quest,2011,French,Drama,35-44,3.9,Ocean Quest_2011_French
+228,City Lights,2025,Korean,Drama,25-34,9.2,City Lights_2025_Korean
+66,Campus Days,2019,Japanese,Sci-Fi,18-24,5.9,Campus Days_2019_Japanese
+262,The Silent House,2018,Spanish,Animation,25-34,7.7,The Silent House_2018_Spanish
+295,Future World,2011,French,Horror,25-34,5.7,Future World_2011_French
+243,Hidden Truth,2021,Korean,Romance,25-34,6.2,Hidden Truth_2021_Korean
+186,Final Verdict,2017,Japanese,Romance,35-44,5.3,Final Verdict_2017_Japanese
+246,The Last Mission,2018,English,Crime,13-17,6.3,The Last Mission_2018_English
+125,Broken Roads,2021,French,Comedy,18-24,6.4,Broken Roads_2021_French
+268,Parallel Lives,2019,Korean,Action,13-17,7.0,Parallel Lives_2019_Korean
+131,Love in Winter,2018,French,Adventure,13-17,6.7,Love in Winter_2018_French
+237,Campus Days,2019,Spanish,Comedy,45+,5.5,Campus Days_2019_Spanish
+18,Code Breaker,2025,Hindi,Animation,35-44,6.5,Code Breaker_2025_Hindi
+40,Final Verdict,2018,English,Adventure,45+,8.7,Final Verdict_2018_English
+21,Digital Age,2011,Spanish,Romance,35-44,8.6,Digital Age_2011_Spanish
+225,Beyond the Stars,2025,Unknown,Animation,13-17,7.6,Beyond the Stars_2025_Unknown
+282,Hidden Truth,2013,Korean,Adventure,13-17,7.8,Hidden Truth_2013_Korean
+8,Broken Roads,2016,French,Crime,35-44,9.4,Broken Roads_2016_French
+100,The Silent House,2021,English,Crime,13-17,7.7,The Silent House_2021_English
+240,Code Breaker,2011,Spanish,Thriller,13-17,7.8,Code Breaker_2011_Spanish
+87,Future World,2010,Korean,Horror,18-24,5.4,Future World_2010_Korean
+298,City Lights,2012,English,Crime,45+,5.9,City Lights_2012_English
+14,Hidden Truth,2021,French,Romance,45+,7.1,Hidden Truth_2021_French
+2,Hidden Truth,2013,Spanish,Action,45+,6.2,Hidden Truth_2013_Spanish
+293,Future World,2017,Japanese,Drama,25-34,6.0,Future World_2017_Japanese
+41,Parallel Lives,2015,Spanish,Thriller,18-24,6.1,Parallel Lives_2015_Spanish
+111,The Silent House,2020,Spanish,Drama,45+,5.5,The Silent House_2020_Spanish
+14,Ocean Quest,2011,English,Horror,45+,6.2,Ocean Quest_2011_English
+231,Final Verdict,2024,English,Adventure,18-24,7.5,Final Verdict_2024_English
+84,Shadow Hunter,2018,English,Sci-Fi,13-17,9.1,Shadow Hunter_2018_English
+130,Beyond the Stars,2023,English,Crime,45+,8.0,Beyond the Stars_2023_English
+231,The Last Mission,2011,Korean,Action,13-17,7.8,The Last Mission_2011_Korean
+145,Midnight Chase,2022,Hindi,Horror,45+,5.3,Midnight Chase_2022_Hindi
+28,City Lights,2024,Korean,Drama,35-44,7.2,City Lights_2024_Korean
+66,Love in Winter,2021,Spanish,Thriller,25-34,7.0,Love in Winter_2021_Spanish
+163,Midnight Chase,2014,Korean,Crime,45+,7.4,Midnight Chase_2014_Korean
+229,Beyond the Stars,2021,French,Romance,35-44,6.7,Beyond the Stars_2021_French
+261,Love in Winter,2013,Japanese,Crime,18-24,8.9,Love in Winter_2013_Japanese
+164,The Last Mission,2022,English,Thriller,35-44,7.2,The Last Mission_2022_English
+287,The Last Mission,2016,French,Thriller,18-24,7.3,The Last Mission_2016_French
+10,Parallel Lives,2017,Japanese,Sci-Fi,45+,4.9,Parallel Lives_2017_Japanese
+195,Secret Agent,2014,French,Crime,18-24,7.0,Secret Agent_2014_French
+118,Wild Frontier,2019,Spanish,Crime,35-44,8.4,Wild Frontier_2019_Spanish
+270,Dream Makers,2023,English,Sci-Fi,25-34,7.7,Dream Makers_2023_English
+80,Digital Age,2023,French,Animation,13-17,4.7,Digital Age_2023_French
+93,Hidden Truth,2014,Spanish,Animation,13-17,6.6,Hidden Truth_2014_Spanish
+266,Final Verdict,2011,English,Adventure,25-34,9.0,Final Verdict_2011_English
+257,Parallel Lives,2017,Hindi,Animation,13-17,6.9,Parallel Lives_2017_Hindi
+133,Final Verdict,2023,Spanish,Comedy,45+,7.5,Final Verdict_2023_Spanish
+276,Campus Days,2011,Korean,Crime,45+,8.9,Campus Days_2011_Korean
+264,Campus Days,2025,English,Action,35-44,6.9,Campus Days_2025_English
+171,Code Breaker,2019,French,Crime,35-44,8.0,Code Breaker_2019_French
+1,Love in Winter,2021,Japanese,Comedy,18-24,7.6,Love in Winter_2021_Japanese
+64,Ocean Quest,2015,French,Comedy,35-44,7.8,Ocean Quest_2015_French
+284,City Lights,2017,Korean,Drama,45+,7.5,City Lights_2017_Korean
+121,Shadow Hunter,2015,Korean,Crime,35-44,6.5,Shadow Hunter_2015_Korean
+107,Secret Agent,2013,French,Horror,13-17,6.6,Secret Agent_2013_French
+175,Future World,2022,Unknown,Comedy,18-24,6.2,Future World_2022_Unknown
+204,Code Breaker,2013,English,Action,18-24,5.3,Code Breaker_2013_English
+165,The Last Mission,2015,Spanish,Sci-Fi,45+,8.5,The Last Mission_2015_Spanish
+120,Beyond the Stars,2023,Korean,Adventure,35-44,7.1,Beyond the Stars_2023_Korean
+44,Campus Days,2024,Korean,Drama,13-17,8.4,Campus Days_2024_Korean
+156,Broken Roads,2025,Korean,Sci-Fi,35-44,8.8,Broken Roads_2025_Korean
+207,Digital Age,2022,Japanese,Drama,25-34,7.2,Digital Age_2022_Japanese
+108,Love in Winter,2013,Hindi,Action,35-44,5.7,Love in Winter_2013_Hindi
+251,Hidden Truth,2017,Japanese,Thriller,45+,6.9,Hidden Truth_2017_Japanese
+130,Final Verdict,2018,English,Crime,35-44,6.4,Final Verdict_2018_English
+293,Broken Roads,2025,English,Romance,18-24,4.9,Broken Roads_2025_English
+20,Beyond the Stars,2010,English,Horror,13-17,6.5,Beyond the Stars_2010_English
+282,The Lost Kingdom,2022,English,Sci-Fi,45+,7.0,The Lost Kingdom_2022_English
+285,Final Verdict,2013,English,Crime,25-34,6.4,Final Verdict_2013_English
+1,Dream Makers,2013,French,Horror,13-17,6.3,Dream Makers_2013_French
+119,Wild Frontier,2011,Korean,Thriller,13-17,5.7,Wild Frontier_2011_Korean
+35,Digital Age,2015,Japanese,Romance,18-24,7.3,Digital Age_2015_Japanese
+198,Code Breaker,2012,French,Unknown,18-24,9.2,Code Breaker_2012_French
+245,Parallel Lives,2016,Japanese,Horror,18-24,8.5,Parallel Lives_2016_Japanese
+59,Dream Makers,2025,Hindi,Sci-Fi,45+,7.8,Dream Makers_2025_Hindi
+161,Love in Winter,2022,Spanish,Animation,35-44,7.8,Love in Winter_2022_Spanish
+179,Love in Winter,2020,Korean,Romance,13-17,7.0,Love in Winter_2020_Korean
+206,Dream Makers,2025,Hindi,Crime,35-44,5.1,Dream Makers_2025_Hindi
+12,Love in Winter,2020,French,Thriller,35-44,6.7,Love in Winter_2020_French
+276,Hidden Truth,2014,Spanish,Romance,18-24,6.0,Hidden Truth_2014_Spanish
+181,Code Breaker,2013,Hindi,Action,35-44,7.3,Code Breaker_2013_Hindi
+242,Beyond the Stars,2014,Japanese,Animation,13-17,8.5,Beyond the Stars_2014_Japanese
+216,Digital Age,2017,Spanish,Action,13-17,9.3,Digital Age_2017_Spanish
+251,The Silent House,2012,Japanese,Thriller,25-34,7.2,The Silent House_2012_Japanese
+299,Campus Days,2023,Hindi,Sci-Fi,45+,5.3,Campus Days_2023_Hindi
+126,Broken Roads,2016,French,Sci-Fi,35-44,7.2,Broken Roads_2016_French
+217,Parallel Lives,2024,Japanese,Thriller,45+,7.2,Parallel Lives_2024_Japanese
+285,Secret Agent,2023,Spanish,Drama,45+,7.8,Secret Agent_2023_Spanish
+185,Campus Days,2015,Hindi,Thriller,45+,7.1,Campus Days_2015_Hindi
+39,Broken Roads,2021,Japanese,Animation,45+,7.2,Broken Roads_2021_Japanese
+223,Shadow Hunter,2025,French,Comedy,13-17,6.4,Shadow Hunter_2025_French
+184,Beyond the Stars,2010,Korean,Sci-Fi,35-44,6.8,Beyond the Stars_2010_Korean
+178,Love in Winter,2022,French,Adventure,25-34,7.7,Love in Winter_2022_French
+294,Love in Winter,2016,French,Animation,45+,4.9,Love in Winter_2016_French
+151,The Silent House,2023,Korean,Animation,25-34,6.8,The Silent House_2023_Korean
+126,Campus Days,2022,French,Animation,13-17,7.9,Campus Days_2022_French
+234,Broken Roads,2016,Korean,Horror,13-17,8.9,Broken Roads_2016_Korean
+8,City Lights,2023,Korean,Animation,18-24,6.7,City Lights_2023_Korean
+129,Broken Roads,2025,Japanese,Sci-Fi,45+,8.4,Broken Roads_2025_Japanese
+264,Wild Frontier,2024,Japanese,Comedy,18-24,9.0,Wild Frontier_2024_Japanese
+157,Hidden Truth,2021,Korean,Comedy,25-34,6.7,Hidden Truth_2021_Korean
+5,Dream Makers,2010,Hindi,Animation,35-44,6.5,Dream Makers_2010_Hindi
+86,City Lights,2018,Spanish,Action,18-24,6.9,City Lights_2018_Spanish
+175,Broken Roads,2015,Hindi,Sci-Fi,13-17,7.0,Broken Roads_2015_Hindi
+290,Wild Frontier,2024,Korean,Sci-Fi,45+,8.3,Wild Frontier_2024_Korean
+193,Campus Days,2021,Spanish,Romance,25-34,6.2,Campus Days_2021_Spanish
+119,The Lost Kingdom,2011,Japanese,Crime,13-17,8.8,The Lost Kingdom_2011_Japanese
+218,Future World,2014,Spanish,Drama,35-44,6.2,Future World_2014_Spanish
+114,Future World,2022,Korean,Drama,45+,5.7,Future World_2022_Korean
+145,Final Verdict,2020,Japanese,Action,35-44,7.7,Final Verdict_2020_Japanese
+26,Midnight Chase,2013,Spanish,Drama,35-44,8.5,Midnight Chase_2013_Spanish
+136,Beyond the Stars,2016,Unknown,Romance,45+,7.3,Beyond the Stars_2016_Unknown
+232,Wild Frontier,2017,Hindi,Thriller,45+,7.6,Wild Frontier_2017_Hindi
+76,The Last Mission,2025,Spanish,Drama,35-44,9.2,The Last Mission_2025_Spanish
+289,Hidden Truth,2020,Korean,Sci-Fi,25-34,8.5,Hidden Truth_2020_Korean
+1,Broken Roads,2023,English,Thriller,45+,7.1,Broken Roads_2023_English
+147,Parallel Lives,2024,English,Drama,13-17,6.6,Parallel Lives_2024_English
+287,City Lights,2020,English,Sci-Fi,18-24,8.3,City Lights_2020_English
+142,Final Verdict,2010,Korean,Sci-Fi,25-34,8.0,Final Verdict_2010_Korean
+53,Beyond the Stars,2014,English,Animation,45+,7.6,Beyond the Stars_2014_English
+69,Wild Frontier,2024,Hindi,Comedy,45+,6.7,Wild Frontier_2024_Hindi
+90,Campus Days,2012,Korean,Action,25-34,7.0,Campus Days_2012_Korean
+220,Hidden Truth,2010,Japanese,Romance,18-24,6.9,Hidden Truth_2010_Japanese
+192,Digital Age,2021,Korean,Horror,35-44,6.8,Digital Age_2021_Korean
+63,Ocean Quest,2012,Korean,Crime,13-17,6.4,Ocean Quest_2012_Korean
+73,Wild Frontier,2023,Spanish,Drama,45+,7.4,Wild Frontier_2023_Spanish
+161,Love in Winter,2015,Spanish,Drama,18-24,6.4,Love in Winter_2015_Spanish
+169,Midnight Chase,2023,Spanish,Thriller,13-17,7.3,Midnight Chase_2023_Spanish
+89,Ocean Quest,2016,French,Thriller,25-34,4.8,Ocean Quest_2016_French
+176,Love in Winter,2025,Hindi,Crime,45+,6.4,Love in Winter_2025_Hindi
+269,Campus Days,2017,Korean,Drama,35-44,8.3,Campus Days_2017_Korean
+73,Love in Winter,2022,Korean,Adventure,25-34,6.1,Love in Winter_2022_Korean
+245,Beyond the Stars,2020,Spanish,Romance,45+,7.8,Beyond the Stars_2020_Spanish
+77,Wild Frontier,2013,Korean,Drama,18-24,6.2,Wild Frontier_2013_Korean
+159,City Lights,2012,Japanese,Comedy,13-17,8.0,City Lights_2012_Japanese
+98,Final Verdict,2014,Korean,Crime,13-17,6.8,Final Verdict_2014_Korean
+102,Broken Roads,2018,English,Adventure,45+,6.7,Broken Roads_2018_English
+132,Parallel Lives,2022,Japanese,Romance,25-34,7.2,Parallel Lives_2022_Japanese
+102,Future World,2015,Japanese,Drama,35-44,5.6,Future World_2015_Japanese
+19,Final Verdict,2024,Korean,Horror,18-24,8.2,Final Verdict_2024_Korean
+82,Midnight Chase,2018,French,Animation,45+,8.5,Midnight Chase_2018_French
+279,Love in Winter,2024,Spanish,Comedy,18-24,6.7,Love in Winter_2024_Spanish
+129,Campus Days,2015,Hindi,Horror,13-17,7.7,Campus Days_2015_Hindi
+89,Secret Agent,2011,Hindi,Thriller,35-44,8.0,Secret Agent_2011_Hindi
+213,The Silent House,2022,English,Thriller,18-24,7.0,The Silent House_2022_English
+143,The Lost Kingdom,2014,Hindi,Drama,45+,5.9,The Lost Kingdom_2014_Hindi
+65,Future World,2021,Hindi,Thriller,35-44,8.9,Future World_2021_Hindi
+76,Code Breaker,2020,Spanish,Comedy,25-34,6.7,Code Breaker_2020_Spanish
+199,Campus Days,2018,Spanish,Romance,45+,6.4,Campus Days_2018_Spanish
+143,Wild Frontier,2017,French,Sci-Fi,18-24,8.9,Wild Frontier_2017_French
+93,Wild Frontier,2016,English,Action,35-44,7.8,Wild Frontier_2016_English
+224,Shadow Hunter,2010,Hindi,Crime,45+,7.4,Shadow Hunter_2010_Hindi
+291,Future World,2013,French,Romance,35-44,6.0,Future World_2013_French
+102,Future World,2021,English,Sci-Fi,35-44,8.0,Future World_2021_English
+267,Secret Agent,2016,Japanese,Adventure,35-44,10.0,Secret Agent_2016_Japanese
+110,Code Breaker,2025,Hindi,Comedy,18-24,8.1,Code Breaker_2025_Hindi
+265,Beyond the Stars,2020,Hindi,Horror,45+,7.6,Beyond the Stars_2020_Hindi
+3,Code Breaker,2016,Spanish,Sci-Fi,13-17,7.9,Code Breaker_2016_Spanish
+85,Final Verdict,2024,Korean,Comedy,13-17,6.7,Final Verdict_2024_Korean
+282,The Last Mission,2015,English,Animation,18-24,6.7,The Last Mission_2015_English
+117,Parallel Lives,2017,Hindi,Horror,18-24,6.7,Parallel Lives_2017_Hindi
+221,Final Verdict,2020,English,Thriller,35-44,6.5,Final Verdict_2020_English
+154,Wild Frontier,2022,French,Thriller,45+,6.7,Wild Frontier_2022_French
+153,Digital Age,2015,French,Horror,45+,6.7,Digital Age_2015_French
+12,Campus Days,2019,Korean,Adventure,25-34,6.8,Campus Days_2019_Korean
+133,Wild Frontier,2025,Hindi,Adventure,25-34,6.8,Wild Frontier_2025_Hindi
+293,The Lost Kingdom,2012,Spanish,Adventure,13-17,7.4,The Lost Kingdom_2012_Spanish
+300,Digital Age,2013,Hindi,Sci-Fi,25-34,7.2,Digital Age_2013_Hindi
+228,Wild Frontier,2023,English,Crime,25-34,7.3,Wild Frontier_2023_English
+271,Parallel Lives,2012,Japanese,Sci-Fi,13-17,8.8,Parallel Lives_2012_Japanese
+43,Parallel Lives,2010,French,Drama,13-17,7.2,Parallel Lives_2010_French
+21,Beyond the Stars,2024,English,Action,25-34,9.5,Beyond the Stars_2024_English
+107,Midnight Chase,2019,Korean,Horror,45+,7.5,Midnight Chase_2019_Korean
+117,Broken Roads,2014,French,Romance,25-34,6.6,Broken Roads_2014_French
+124,Hidden Truth,2024,Spanish,Action,35-44,8.6,Hidden Truth_2024_Spanish
+281,Shadow Hunter,2010,French,Animation,35-44,7.0,Shadow Hunter_2010_French
+292,The Silent House,2010,Japanese,Sci-Fi,35-44,4.5,The Silent House_2010_Japanese
+203,Ocean Quest,2011,Hindi,Sci-Fi,18-24,7.1,Ocean Quest_2011_Hindi
+51,Secret Agent,2022,Japanese,Comedy,35-44,6.8,Secret Agent_2022_Japanese
+271,Broken Roads,2013,Japanese,Action,45+,8.9,Broken Roads_2013_Japanese
+277,Campus Days,2015,Hindi,Comedy,18-24,6.1,Campus Days_2015_Hindi
+141,Campus Days,2017,French,Romance,18-24,6.7,Campus Days_2017_French
+275,Campus Days,2022,Korean,Comedy,35-44,8.5,Campus Days_2022_Korean
+290,The Last Mission,2025,Hindi,Action,25-34,7.5,The Last Mission_2025_Hindi
+52,Ocean Quest,2012,Hindi,Horror,13-17,6.9,Ocean Quest_2012_Hindi
+27,Wild Frontier,2010,Spanish,Animation,25-34,6.3,Wild Frontier_2010_Spanish
+157,Code Breaker,2012,French,Sci-Fi,25-34,7.5,Code Breaker_2012_French
+239,Hidden Truth,2021,Hindi,Romance,18-24,7.1,Hidden Truth_2021_Hindi
+156,Love in Winter,2012,Korean,Sci-Fi,18-24,6.3,Love in Winter_2012_Korean
+291,Broken Roads,2014,English,Drama,18-24,6.3,Broken Roads_2014_English
+136,Parallel Lives,2020,French,Animation,45+,6.2,Parallel Lives_2020_French
+144,The Lost Kingdom,2021,Spanish,Crime,45+,6.0,The Lost Kingdom_2021_Spanish
+106,Shadow Hunter,2021,Japanese,Comedy,13-17,8.1,Shadow Hunter_2021_Japanese
+158,Digital Age,2013,Hindi,Thriller,18-24,8.0,Digital Age_2013_Hindi
+146,Final Verdict,2022,Korean,Action,35-44,8.1,Final Verdict_2022_Korean
+2,Hidden Truth,2013,French,Sci-Fi,18-24,7.1,Hidden Truth_2013_French
+77,Dream Makers,2018,Korean,Comedy,45+,6.8,Dream Makers_2018_Korean
+132,Dream Makers,2016,Korean,Romance,18-24,6.9,Dream Makers_2016_Korean
+90,Shadow Hunter,2013,Japanese,Sci-Fi,45+,8.2,Shadow Hunter_2013_Japanese
+263,Future World,2012,Spanish,Crime,18-24,5.1,Future World_2012_Spanish
+108,City Lights,2015,French,Animation,35-44,6.5,City Lights_2015_French
+74,The Silent House,2012,Hindi,Animation,13-17,6.1,The Silent House_2012_Hindi
+39,Hidden Truth,2015,Spanish,Sci-Fi,35-44,8.6,Hidden Truth_2015_Spanish
+159,Parallel Lives,2020,Hindi,Romance,45+,6.6,Parallel Lives_2020_Hindi
+71,Hidden Truth,2022,English,Animation,25-34,5.3,Hidden Truth_2022_English
+241,Wild Frontier,2020,Korean,Animation,35-44,7.3,Wild Frontier_2020_Korean
+298,Digital Age,2022,English,Crime,18-24,6.7,Digital Age_2022_English
+36,Ocean Quest,2022,Korean,Action,13-17,6.5,Ocean Quest_2022_Korean
+84,Campus Days,2021,Japanese,Romance,18-24,6.4,Campus Days_2021_Japanese
+263,Ocean Quest,2018,Spanish,Romance,18-24,6.3,Ocean Quest_2018_Spanish
+172,Midnight Chase,2015,Hindi,Horror,35-44,7.9,Midnight Chase_2015_Hindi
+173,Midnight Chase,2021,Japanese,Horror,13-17,7.3,Midnight Chase_2021_Japanese
+47,Hidden Truth,2013,Hindi,Animation,25-34,6.9,Hidden Truth_2013_Hindi
+141,The Last Mission,2024,Spanish,Unknown,18-24,5.9,The Last Mission_2024_Spanish
+118,Beyond the Stars,2014,French,Horror,13-17,6.9,Beyond the Stars_2014_French
+277,Love in Winter,2022,English,Animation,25-34,7.4,Love in Winter_2022_English
+214,The Last Mission,2015,English,Adventure,18-24,7.4,The Last Mission_2015_English
+220,Parallel Lives,2020,Hindi,Drama,13-17,7.3,Parallel Lives_2020_Hindi
+26,Love in Winter,2012,Hindi,Drama,35-44,6.1,Love in Winter_2012_Hindi
+9,Broken Roads,2017,Hindi,Romance,18-24,4.5,Broken Roads_2017_Hindi
+271,Ocean Quest,2013,Spanish,Thriller,18-24,9.1,Ocean Quest_2013_Spanish
+10,Ocean Quest,2017,French,Crime,13-17,5.7,Ocean Quest_2017_French
+121,Love in Winter,2019,English,Action,18-24,4.9,Love in Winter_2019_English
+125,The Silent House,2019,Japanese,Horror,25-34,7.2,The Silent House_2019_Japanese
+170,The Last Mission,2025,Korean,Adventure,18-24,5.2,The Last Mission_2025_Korean
+72,Beyond the Stars,2012,Spanish,Animation,45+,6.2,Beyond the Stars_2012_Spanish
+152,Hidden Truth,2019,English,Thriller,25-34,7.7,Hidden Truth_2019_English
+208,City Lights,2016,French,Romance,13-17,9.0,City Lights_2016_French
+49,Ocean Quest,2020,Spanish,Horror,25-34,7.5,Ocean Quest_2020_Spanish
+154,The Silent House,2022,Japanese,Thriller,45+,6.6,The Silent House_2022_Japanese
+293,City Lights,2021,English,Horror,45+,7.0,City Lights_2021_English
+68,The Lost Kingdom,2018,Spanish,Action,18-24,5.1,The Lost Kingdom_2018_Spanish
+50,The Lost Kingdom,2013,English,Action,18-24,6.6,The Lost Kingdom_2013_English
+152,Beyond the Stars,2017,English,Crime,35-44,6.6,Beyond the Stars_2017_English
+19,Code Breaker,2012,French,Drama,25-34,7.3,Code Breaker_2012_French
+100,Final Verdict,2025,Korean,Comedy,35-44,9.2,Final Verdict_2025_Korean
+60,Hidden Truth,2016,French,Comedy,45+,5.0,Hidden Truth_2016_French
+167,Ocean Quest,2012,English,Horror,18-24,6.7,Ocean Quest_2012_English
+202,Hidden Truth,2021,Spanish,Crime,18-24,5.1,Hidden Truth_2021_Spanish
+146,The Lost Kingdom,2024,Japanese,Comedy,18-24,6.5,The Lost Kingdom_2024_Japanese
+164,Broken Roads,2024,French,Romance,13-17,6.1,Broken Roads_2024_French
+242,Broken Roads,2016,Korean,Comedy,45+,5.5,Broken Roads_2016_Korean
+69,City Lights,2023,English,Sci-Fi,18-24,8.1,City Lights_2023_English
+175,Broken Roads,2020,Japanese,Animation,45+,7.4,Broken Roads_2020_Japanese
+49,Wild Frontier,2019,French,Unknown,18-24,8.0,Wild Frontier_2019_French
+108,Code Breaker,2019,French,Romance,25-34,6.5,Code Breaker_2019_French
+226,Shadow Hunter,2020,French,Thriller,45+,7.0,Shadow Hunter_2020_French
+161,City Lights,2020,French,Romance,35-44,8.9,City Lights_2020_French
+119,Ocean Quest,2015,Japanese,Drama,13-17,7.1,Ocean Quest_2015_Japanese
+149,Campus Days,2011,Spanish,Thriller,35-44,8.0,Campus Days_2011_Spanish
+150,City Lights,2020,Korean,Adventure,45+,6.4,City Lights_2020_Korean
+293,Dream Makers,2012,Korean,Animation,18-24,7.9,Dream Makers_2012_Korean
+143,Shadow Hunter,2025,English,Animation,45+,6.5,Shadow Hunter_2025_English
+160,Code Breaker,2015,Hindi,Animation,13-17,5.0,Code Breaker_2015_Hindi
+11,City Lights,2023,Spanish,Animation,45+,7.1,City Lights_2023_Spanish
+138,City Lights,2013,English,Horror,18-24,6.6,City Lights_2013_English
+78,Broken Roads,2015,English,Animation,35-44,5.3,Broken Roads_2015_English
+77,Parallel Lives,2010,French,Animation,25-34,7.3,Parallel Lives_2010_French
+254,City Lights,2019,Hindi,Animation,35-44,6.1,City Lights_2019_Hindi
+258,Midnight Chase,2021,Hindi,Crime,18-24,10.0,Midnight Chase_2021_Hindi
+291,Hidden Truth,2010,Spanish,Horror,18-24,5.5,Hidden Truth_2010_Spanish
+263,Ocean Quest,2012,Hindi,Action,13-17,5.8,Ocean Quest_2012_Hindi
+85,The Lost Kingdom,2017,English,Romance,45+,8.1,The Lost Kingdom_2017_English
+146,Midnight Chase,2017,Hindi,Romance,45+,7.0,Midnight Chase_2017_Hindi
+42,Midnight Chase,2020,Hindi,Thriller,35-44,8.0,Midnight Chase_2020_Hindi
+125,The Last Mission,2013,Korean,Crime,25-34,7.5,The Last Mission_2013_Korean
+167,Campus Days,2015,English,Sci-Fi,25-34,6.5,Campus Days_2015_English
+241,The Silent House,2024,Japanese,Romance,13-17,5.6,The Silent House_2024_Japanese
+280,Broken Roads,2017,Hindi,Comedy,18-24,8.3,Broken Roads_2017_Hindi
+188,Wild Frontier,2016,Hindi,Unknown,13-17,5.7,Wild Frontier_2016_Hindi
+68,Campus Days,2016,Hindi,Animation,18-24,8.1,Campus Days_2016_Hindi
+218,Dream Makers,2022,Hindi,Horror,13-17,7.0,Dream Makers_2022_Hindi
+102,Dream Makers,2013,Korean,Sci-Fi,35-44,6.8,Dream Makers_2013_Korean
+42,Beyond the Stars,2018,English,Comedy,45+,6.0,Beyond the Stars_2018_English
+288,Ocean Quest,2021,Spanish,Horror,25-34,7.6,Ocean Quest_2021_Spanish
+167,Secret Agent,2019,English,Thriller,13-17,3.7,Secret Agent_2019_English
+109,Secret Agent,2015,French,Sci-Fi,45+,7.9,Secret Agent_2015_French
+36,Digital Age,2023,English,Crime,45+,7.2,Digital Age_2023_English
+232,The Lost Kingdom,2021,Hindi,Animation,25-34,6.9,The Lost Kingdom_2021_Hindi
+229,Digital Age,2020,French,Animation,25-34,7.4,Digital Age_2020_French
+164,The Lost Kingdom,2012,English,Drama,25-34,5.6,The Lost Kingdom_2012_English
+73,Secret Agent,2014,French,Horror,13-17,4.4,Secret Agent_2014_French
+136,Parallel Lives,2014,Spanish,Action,25-34,7.6,Parallel Lives_2014_Spanish
+70,Beyond the Stars,2023,English,Action,35-44,8.5,Beyond the Stars_2023_English
+196,Broken Roads,2014,Japanese,Horror,45+,5.2,Broken Roads_2014_Japanese
+269,Ocean Quest,2017,Hindi,Crime,25-34,5.9,Ocean Quest_2017_Hindi
+49,Digital Age,2025,French,Adventure,45+,7.9,Digital Age_2025_French
+130,Future World,2018,Japanese,Horror,18-24,7.5,Future World_2018_Japanese
+5,The Lost Kingdom,2022,Japanese,Crime,18-24,10.0,The Lost Kingdom_2022_Japanese
+27,City Lights,2018,Korean,Thriller,25-34,8.3,City Lights_2018_Korean
+160,Digital Age,2022,French,Animation,45+,8.0,Digital Age_2022_French
+149,City Lights,2015,Japanese,Comedy,18-24,6.3,City Lights_2015_Japanese
+264,Final Verdict,2015,Korean,Adventure,25-34,7.7,Final Verdict_2015_Korean
+230,The Silent House,2018,Japanese,Sci-Fi,45+,8.7,The Silent House_2018_Japanese
+200,Future World,2013,Hindi,Adventure,25-34,6.9,Future World_2013_Hindi
+50,Campus Days,2015,Spanish,Comedy,45+,7.0,Campus Days_2015_Spanish
+67,Parallel Lives,2013,Korean,Drama,18-24,7.3,Parallel Lives_2013_Korean
+300,Campus Days,2020,Spanish,Animation,25-34,6.4,Campus Days_2020_Spanish
+58,Digital Age,2025,French,Action,18-24,7.4,Digital Age_2025_French
+259,Code Breaker,2010,Hindi,Crime,25-34,7.4,Code Breaker_2010_Hindi
+130,Campus Days,2016,Korean,Horror,13-17,8.7,Campus Days_2016_Korean
+215,Digital Age,2023,French,Horror,18-24,6.9,Digital Age_2023_French
+172,Ocean Quest,2019,Japanese,Action,18-24,7.8,Ocean Quest_2019_Japanese
+258,The Silent House,2020,English,Adventure,35-44,6.9,The Silent House_2020_English
+102,Code Breaker,2021,French,Animation,18-24,7.8,Code Breaker_2021_French
+209,Love in Winter,2015,Spanish,Romance,45+,6.8,Love in Winter_2015_Spanish
+291,Future World,2018,Hindi,Crime,25-34,7.7,Future World_2018_Hindi
+286,Final Verdict,2016,Hindi,Thriller,13-17,7.9,Final Verdict_2016_Hindi
+116,The Last Mission,2022,French,Comedy,45+,5.9,The Last Mission_2022_French
+264,Final Verdict,2016,Japanese,Adventure,45+,8.3,Final Verdict_2016_Japanese
+150,Wild Frontier,2011,English,Sci-Fi,45+,6.9,Wild Frontier_2011_English
+300,The Silent House,2021,Spanish,Drama,45+,6.6,The Silent House_2021_Spanish
+36,City Lights,2020,French,Horror,13-17,6.3,City Lights_2020_French
+287,Future World,2024,French,Adventure,35-44,7.4,Future World_2024_French
+208,Beyond the Stars,2018,Hindi,Drama,18-24,7.1,Beyond the Stars_2018_Hindi
+106,Beyond the Stars,2019,Spanish,Comedy,45+,7.5,Beyond the Stars_2019_Spanish
+158,Digital Age,2018,English,Horror,18-24,7.5,Digital Age_2018_English
+121,Parallel Lives,2015,Hindi,Horror,18-24,7.8,Parallel Lives_2015_Hindi
+55,Wild Frontier,2022,French,Romance,45+,10.0,Wild Frontier_2022_French
+12,Broken Roads,2012,Hindi,Adventure,35-44,7.1,Broken Roads_2012_Hindi
+145,Wild Frontier,2010,Hindi,Animation,18-24,6.3,Wild Frontier_2010_Hindi
+136,Campus Days,2013,Korean,Action,25-34,4.9,Campus Days_2013_Korean
+3,Code Breaker,2023,Hindi,Action,18-24,5.8,Code Breaker_2023_Hindi
+144,Shadow Hunter,2023,Japanese,Thriller,45+,8.5,Shadow Hunter_2023_Japanese
+30,Future World,2012,Hindi,Sci-Fi,13-17,7.9,Future World_2012_Hindi
+237,Wild Frontier,2023,Japanese,Drama,18-24,5.6,Wild Frontier_2023_Japanese
+279,Love in Winter,2021,Spanish,Adventure,35-44,9.8,Love in Winter_2021_Spanish
+115,Campus Days,2010,Hindi,Crime,25-34,7.5,Campus Days_2010_Hindi
+104,The Last Mission,2012,English,Sci-Fi,25-34,7.6,The Last Mission_2012_English
+118,Dream Makers,2025,Japanese,Romance,13-17,9.6,Dream Makers_2025_Japanese
+5,Parallel Lives,2023,Japanese,Horror,13-17,9.0,Parallel Lives_2023_Japanese
+248,Final Verdict,2023,French,Animation,18-24,8.0,Final Verdict_2023_French
+121,Broken Roads,2013,Spanish,Adventure,45+,8.0,Broken Roads_2013_Spanish
+286,Love in Winter,2022,Hindi,Sci-Fi,35-44,8.1,Love in Winter_2022_Hindi
+149,The Last Mission,2022,English,Sci-Fi,25-34,6.8,The Last Mission_2022_English
+84,Future World,2024,French,Animation,13-17,7.4,Future World_2024_French
+231,Final Verdict,2023,Spanish,Thriller,35-44,7.7,Final Verdict_2023_Spanish
+288,Campus Days,2017,Japanese,Drama,45+,7.0,Campus Days_2017_Japanese
+161,Beyond the Stars,2018,English,Drama,25-34,6.0,Beyond the Stars_2018_English
+272,Parallel Lives,2012,Hindi,Sci-Fi,25-34,6.8,Parallel Lives_2012_Hindi
+38,The Silent House,2015,Korean,Comedy,45+,6.0,The Silent House_2015_Korean
+226,Secret Agent,2019,Korean,Sci-Fi,25-34,7.2,Secret Agent_2019_Korean
+142,Wild Frontier,2020,Spanish,Sci-Fi,45+,5.1,Wild Frontier_2020_Spanish
+292,Wild Frontier,2024,English,Animation,25-34,7.5,Wild Frontier_2024_English
+151,Future World,2014,French,Horror,18-24,5.3,Future World_2014_French
+114,Love in Winter,2025,English,Animation,45+,6.7,Love in Winter_2025_English
+237,Dream Makers,2015,Japanese,Adventure,35-44,7.7,Dream Makers_2015_Japanese
+66,Campus Days,2013,Korean,Sci-Fi,18-24,8.0,Campus Days_2013_Korean
+258,Love in Winter,2019,Spanish,Drama,35-44,7.8,Love in Winter_2019_Spanish
+249,Shadow Hunter,2015,Hindi,Unknown,25-34,7.5,Shadow Hunter_2015_Hindi
+180,Midnight Chase,2025,English,Drama,35-44,5.9,Midnight Chase_2025_English
+190,The Silent House,2016,Korean,Action,18-24,8.2,The Silent House_2016_Korean
+154,Hidden Truth,2018,French,Thriller,45+,5.9,Hidden Truth_2018_French
+196,Parallel Lives,2019,Spanish,Romance,13-17,8.3,Parallel Lives_2019_Spanish
+262,Shadow Hunter,2016,Hindi,Adventure,35-44,7.8,Shadow Hunter_2016_Hindi
+143,Digital Age,2015,English,Adventure,13-17,8.6,Digital Age_2015_English
+101,The Lost Kingdom,2010,French,Thriller,35-44,7.1,The Lost Kingdom_2010_French
+244,Hidden Truth,2011,Hindi,Crime,35-44,6.2,Hidden Truth_2011_Hindi
+12,Future World,2010,Japanese,Romance,45+,5.7,Future World_2010_Japanese
+239,The Silent House,2018,Korean,Horror,25-34,5.8,The Silent House_2018_Korean
+49,Midnight Chase,2019,Japanese,Sci-Fi,18-24,5.3,Midnight Chase_2019_Japanese
+42,The Silent House,2019,Korean,Romance,18-24,8.1,The Silent House_2019_Korean
+166,Broken Roads,2018,French,Crime,18-24,8.3,Broken Roads_2018_French
+82,Digital Age,2016,Japanese,Comedy,25-34,7.7,Digital Age_2016_Japanese
+291,Love in Winter,2025,Korean,Action,13-17,7.1,Love in Winter_2025_Korean
+158,Broken Roads,2022,Spanish,Romance,18-24,9.4,Broken Roads_2022_Spanish
+216,Beyond the Stars,2011,French,Romance,13-17,7.0,Beyond the Stars_2011_French
+158,City Lights,2015,Korean,Action,25-34,7.3,City Lights_2015_Korean
+134,Shadow Hunter,2020,English,Sci-Fi,25-34,7.0,Shadow Hunter_2020_English
+67,The Silent House,2013,Korean,Romance,45+,6.7,The Silent House_2013_Korean
+7,The Silent House,2010,Japanese,Action,18-24,7.8,The Silent House_2010_Japanese
+14,Code Breaker,2010,Spanish,Action,45+,6.4,Code Breaker_2010_Spanish
+73,Final Verdict,2021,Hindi,Action,18-24,6.3,Final Verdict_2021_Hindi
+163,The Last Mission,2014,Hindi,Animation,25-34,7.8,The Last Mission_2014_Hindi
+66,Beyond the Stars,2021,Korean,Crime,25-34,6.6,Beyond the Stars_2021_Korean
+130,Broken Roads,2011,Hindi,Animation,35-44,7.2,Broken Roads_2011_Hindi
+206,Broken Roads,2013,Korean,Comedy,35-44,6.7,Broken Roads_2013_Korean
+276,Broken Roads,2010,Spanish,Horror,25-34,7.1,Broken Roads_2010_Spanish
+256,City Lights,2013,Hindi,Animation,25-34,6.4,City Lights_2013_Hindi
+266,The Silent House,2020,Japanese,Animation,13-17,6.4,The Silent House_2020_Japanese
+25,Ocean Quest,2015,Japanese,Crime,13-17,6.2,Ocean Quest_2015_Japanese
+281,Midnight Chase,2019,English,Horror,45+,8.0,Midnight Chase_2019_English
+253,Beyond the Stars,2013,Korean,Thriller,35-44,7.3,Beyond the Stars_2013_Korean
+289,Digital Age,2010,Hindi,Action,35-44,8.1,Digital Age_2010_Hindi
+164,Hidden Truth,2016,Japanese,Adventure,25-34,8.2,Hidden Truth_2016_Japanese
+95,Code Breaker,2023,Spanish,Horror,25-34,6.6,Code Breaker_2023_Spanish
+270,Future World,2011,Spanish,Comedy,45+,8.1,Future World_2011_Spanish
+110,Future World,2018,English,Sci-Fi,35-44,7.1,Future World_2018_English
+238,Ocean Quest,2022,Spanish,Comedy,13-17,6.9,Ocean Quest_2022_Spanish
+25,The Last Mission,2012,Spanish,Action,18-24,8.5,The Last Mission_2012_Spanish
+141,Beyond the Stars,2017,Hindi,Horror,45+,7.7,Beyond the Stars_2017_Hindi
+117,Final Verdict,2022,Korean,Comedy,18-24,6.7,Final Verdict_2022_Korean
+25,Hidden Truth,2017,French,Comedy,13-17,7.6,Hidden Truth_2017_French
+79,Broken Roads,2012,Spanish,Thriller,13-17,5.7,Broken Roads_2012_Spanish
+68,Campus Days,2013,Spanish,Thriller,18-24,7.4,Campus Days_2013_Spanish
+173,Dream Makers,2011,French,Horror,45+,5.5,Dream Makers_2011_French
+12,Future World,2013,Spanish,Action,18-24,6.0,Future World_2013_Spanish
+288,Parallel Lives,2020,Hindi,Animation,45+,7.7,Parallel Lives_2020_Hindi
+128,Dream Makers,2020,Hindi,Drama,45+,4.2,Dream Makers_2020_Hindi
+96,The Lost Kingdom,2020,French,Romance,25-34,9.1,The Lost Kingdom_2020_French
+92,Broken Roads,2025,Japanese,Adventure,35-44,8.0,Broken Roads_2025_Japanese
+141,Love in Winter,2023,Spanish,Romance,35-44,5.1,Love in Winter_2023_Spanish
+31,Code Breaker,2018,Japanese,Crime,13-17,9.7,Code Breaker_2018_Japanese
+20,City Lights,2011,Spanish,Thriller,25-34,10.0,City Lights_2011_Spanish
+146,Campus Days,2021,Korean,Horror,35-44,6.9,Campus Days_2021_Korean
+160,Beyond the Stars,2021,Spanish,Romance,45+,6.1,Beyond the Stars_2021_Spanish
+43,The Lost Kingdom,2022,Hindi,Action,45+,9.0,The Lost Kingdom_2022_Hindi
+254,Dream Makers,2025,English,Adventure,18-24,6.7,Dream Makers_2025_English
+130,Hidden Truth,2012,English,Romance,18-24,7.3,Hidden Truth_2012_English
+60,Hidden Truth,2024,English,Adventure,45+,8.4,Hidden Truth_2024_English
+151,Parallel Lives,2020,Unknown,Sci-Fi,45+,6.9,Parallel Lives_2020_Unknown
+287,Code Breaker,2020,Japanese,Action,18-24,6.8,Code Breaker_2020_Japanese
+5,Campus Days,2024,Japanese,Drama,35-44,5.7,Campus Days_2024_Japanese
+266,Future World,2013,Spanish,Comedy,13-17,6.4,Future World_2013_Spanish
+130,Secret Agent,2014,Japanese,Adventure,18-24,6.8,Secret Agent_2014_Japanese
+267,Final Verdict,2010,Spanish,Action,35-44,5.7,Final Verdict_2010_Spanish
+178,Beyond the Stars,2016,Korean,Adventure,35-44,5.8,Beyond the Stars_2016_Korean
+253,Code Breaker,2025,Spanish,Adventure,35-44,7.1,Code Breaker_2025_Spanish
+56,The Last Mission,2023,English,Animation,25-34,5.1,The Last Mission_2023_English
+83,Secret Agent,2019,French,Animation,25-34,6.1,Secret Agent_2019_French
+99,Shadow Hunter,2025,French,Action,35-44,9.2,Shadow Hunter_2025_French
+149,Parallel Lives,2016,Hindi,Animation,45+,6.7,Parallel Lives_2016_Hindi
+156,Campus Days,2018,Hindi,Crime,25-34,6.6,Campus Days_2018_Hindi
+190,Ocean Quest,2013,Spanish,Drama,18-24,6.7,Ocean Quest_2013_Spanish
+263,Future World,2023,French,Horror,25-34,6.7,Future World_2023_French
+80,Dream Makers,2023,English,Action,45+,7.7,Dream Makers_2023_English
+252,Parallel Lives,2015,Japanese,Action,13-17,7.7,Parallel Lives_2015_Japanese
+97,The Silent House,2020,English,Crime,25-34,6.7,The Silent House_2020_English
+260,City Lights,2011,English,Thriller,35-44,6.9,City Lights_2011_English
+260,Love in Winter,2021,Spanish,Thriller,35-44,8.5,Love in Winter_2021_Spanish
+103,Code Breaker,2021,Spanish,Animation,35-44,5.4,Code Breaker_2021_Spanish
+40,Midnight Chase,2023,Korean,Horror,13-17,7.0,Midnight Chase_2023_Korean
+273,The Last Mission,2013,English,Animation,45+,7.2,The Last Mission_2013_English
+101,Midnight Chase,2011,English,Sci-Fi,18-24,6.2,Midnight Chase_2011_English
+221,Secret Agent,2019,Spanish,Sci-Fi,45+,7.0,Secret Agent_2019_Spanish
+124,Future World,2014,Spanish,Comedy,13-17,6.1,Future World_2014_Spanish
+231,Shadow Hunter,2024,Korean,Sci-Fi,35-44,7.8,Shadow Hunter_2024_Korean
+178,Shadow Hunter,2016,Korean,Thriller,45+,5.6,Shadow Hunter_2016_Korean
+63,Final Verdict,2022,Hindi,Drama,18-24,8.3,Final Verdict_2022_Hindi
+116,Beyond the Stars,2010,French,Sci-Fi,35-44,7.0,Beyond the Stars_2010_French
+191,Broken Roads,2024,English,Animation,18-24,6.6,Broken Roads_2024_English
+62,Midnight Chase,2019,English,Adventure,25-34,6.0,Midnight Chase_2019_English
+256,Beyond the Stars,2019,Korean,Action,18-24,8.2,Beyond the Stars_2019_Korean
+7,Parallel Lives,2016,Korean,Drama,35-44,6.4,Parallel Lives_2016_Korean
+155,Wild Frontier,2019,Hindi,Drama,25-34,5.8,Wild Frontier_2019_Hindi
+92,The Silent House,2022,French,Animation,35-44,8.3,The Silent House_2022_French
+14,Final Verdict,2015,Hindi,Action,35-44,6.1,Final Verdict_2015_Hindi
+229,Ocean Quest,2015,French,Thriller,25-34,7.0,Ocean Quest_2015_French
+86,The Last Mission,2021,Japanese,Drama,18-24,8.0,The Last Mission_2021_Japanese
+133,Ocean Quest,2017,English,Comedy,13-17,7.3,Ocean Quest_2017_English
+183,Broken Roads,2017,Hindi,Animation,13-17,9.0,Broken Roads_2017_Hindi
+62,Beyond the Stars,2015,Korean,Drama,13-17,6.2,Beyond the Stars_2015_Korean
+219,Ocean Quest,2012,Hindi,Horror,13-17,6.9,Ocean Quest_2012_Hindi
+246,Hidden Truth,2014,Japanese,Action,45+,7.0,Hidden Truth_2014_Japanese
+230,The Silent House,2011,Hindi,Sci-Fi,13-17,7.8,The Silent House_2011_Hindi
+79,City Lights,2024,English,Drama,25-34,8.5,City Lights_2024_English
+149,City Lights,2023,Japanese,Animation,13-17,7.2,City Lights_2023_Japanese
+138,Broken Roads,2014,Korean,Sci-Fi,35-44,6.9,Broken Roads_2014_Korean
+65,Parallel Lives,2023,Korean,Comedy,13-17,5.5,Parallel Lives_2023_Korean
+13,Future World,2018,Spanish,Sci-Fi,18-24,7.2,Future World_2018_Spanish
+213,Beyond the Stars,2019,Japanese,Horror,25-34,6.4,Beyond the Stars_2019_Japanese
+242,Ocean Quest,2010,Spanish,Thriller,25-34,7.8,Ocean Quest_2010_Spanish
+213,The Silent House,2019,Spanish,Drama,45+,6.6,The Silent House_2019_Spanish
+181,Love in Winter,2014,English,Romance,35-44,6.8,Love in Winter_2014_English
+173,Secret Agent,2021,Hindi,Romance,25-34,5.5,Secret Agent_2021_Hindi
+160,Digital Age,2015,Korean,Sci-Fi,18-24,5.1,Digital Age_2015_Korean
+164,Final Verdict,2023,Korean,Crime,13-17,9.1,Final Verdict_2023_Korean
+188,Parallel Lives,2020,Hindi,Action,25-34,7.2,Parallel Lives_2020_Hindi
+191,The Silent House,2016,Korean,Romance,18-24,7.5,The Silent House_2016_Korean
+256,Campus Days,2018,Hindi,Crime,13-17,6.1,Campus Days_2018_Hindi
+183,Future World,2015,Japanese,Romance,45+,8.1,Future World_2015_Japanese
+117,Midnight Chase,2014,English,Crime,25-34,7.9,Midnight Chase_2014_English
+282,Dream Makers,2021,English,Action,25-34,6.2,Dream Makers_2021_English
+196,Dream Makers,2016,English,Adventure,18-24,5.9,Dream Makers_2016_English
+34,Broken Roads,2022,Hindi,Romance,35-44,6.3,Broken Roads_2022_Hindi
+52,Wild Frontier,2010,Hindi,Horror,45+,7.1,Wild Frontier_2010_Hindi
+112,Final Verdict,2020,French,Drama,35-44,7.3,Final Verdict_2020_French
+252,Broken Roads,2023,Korean,Crime,25-34,7.1,Broken Roads_2023_Korean
+82,Ocean Quest,2014,Korean,Drama,35-44,8.5,Ocean Quest_2014_Korean
+232,Ocean Quest,2024,French,Animation,13-17,6.3,Ocean Quest_2024_French
+227,Beyond the Stars,2011,French,Animation,45+,5.9,Beyond the Stars_2011_French
+233,Parallel Lives,2013,English,Action,35-44,7.1,Parallel Lives_2013_English
+221,Final Verdict,2016,French,Crime,13-17,5.2,Final Verdict_2016_French
+42,Final Verdict,2014,Hindi,Comedy,18-24,7.9,Final Verdict_2014_Hindi
+21,The Last Mission,2021,Spanish,Animation,35-44,7.2,The Last Mission_2021_Spanish
+42,Campus Days,2015,Hindi,Action,45+,6.7,Campus Days_2015_Hindi
+105,Secret Agent,2012,Korean,Animation,35-44,8.1,Secret Agent_2012_Korean
+192,Code Breaker,2016,Hindi,Comedy,18-24,8.1,Code Breaker_2016_Hindi
+17,Parallel Lives,2020,Korean,Romance,35-44,6.8,Parallel Lives_2020_Korean
+120,The Silent House,2011,Hindi,Sci-Fi,13-17,7.8,The Silent House_2011_Hindi
+129,The Lost Kingdom,2021,Korean,Adventure,35-44,8.0,The Lost Kingdom_2021_Korean
+130,Digital Age,2015,Japanese,Animation,45+,7.5,Digital Age_2015_Japanese
+60,Campus Days,2014,Hindi,Animation,25-34,6.9,Campus Days_2014_Hindi
+48,Digital Age,2019,Korean,Horror,13-17,7.5,Digital Age_2019_Korean
+29,Love in Winter,2010,Spanish,Adventure,13-17,6.0,Love in Winter_2010_Spanish
+97,Secret Agent,2021,English,Comedy,13-17,7.2,Secret Agent_2021_English
+10,Secret Agent,2020,Hindi,Drama,13-17,6.8,Secret Agent_2020_Hindi
+242,The Silent House,2024,Spanish,Crime,35-44,6.7,The Silent House_2024_Spanish
+232,Final Verdict,2019,English,Animation,45+,5.2,Final Verdict_2019_English
+277,The Last Mission,2020,Hindi,Sci-Fi,18-24,6.0,The Last Mission_2020_Hindi
+284,Digital Age,2013,Spanish,Crime,45+,6.6,Digital Age_2013_Spanish
+203,Code Breaker,2020,Spanish,Adventure,13-17,8.1,Code Breaker_2020_Spanish
+247,City Lights,2011,Japanese,Crime,35-44,7.4,City Lights_2011_Japanese
+290,Parallel Lives,2013,Spanish,Romance,35-44,8.1,Parallel Lives_2013_Spanish
+264,The Lost Kingdom,2010,Japanese,Animation,13-17,8.5,The Lost Kingdom_2010_Japanese
+214,Love in Winter,2011,French,Crime,35-44,7.5,Love in Winter_2011_French
+200,Code Breaker,2022,Korean,Drama,13-17,7.3,Code Breaker_2022_Korean
+79,Code Breaker,2017,English,Drama,45+,6.0,Code Breaker_2017_English
+173,Digital Age,2015,Korean,Animation,25-34,9.3,Digital Age_2015_Korean
+69,The Lost Kingdom,2011,Korean,Thriller,35-44,5.5,The Lost Kingdom_2011_Korean
+87,Dream Makers,2021,Japanese,Drama,13-17,7.2,Dream Makers_2021_Japanese
+101,The Lost Kingdom,2024,Korean,Crime,13-17,8.0,The Lost Kingdom_2024_Korean
+8,Broken Roads,2015,Spanish,Action,35-44,8.0,Broken Roads_2015_Spanish
+200,Hidden Truth,2019,Japanese,Drama,18-24,5.8,Hidden Truth_2019_Japanese
+87,Code Breaker,2018,Korean,Adventure,13-17,6.6,Code Breaker_2018_Korean
+43,Ocean Quest,2016,Japanese,Thriller,35-44,6.2,Ocean Quest_2016_Japanese
+109,Future World,2018,French,Crime,13-17,4.9,Future World_2018_French
+152,Broken Roads,2014,Japanese,Unknown,18-24,7.2,Broken Roads_2014_Japanese
+17,Final Verdict,2016,Hindi,Horror,25-34,6.3,Final Verdict_2016_Hindi
+148,The Last Mission,2025,English,Romance,45+,7.8,The Last Mission_2025_English
+277,Campus Days,2024,Hindi,Horror,35-44,7.1,Campus Days_2024_Hindi
+232,Shadow Hunter,2023,Hindi,Romance,18-24,6.6,Shadow Hunter_2023_Hindi
+228,Final Verdict,2016,Hindi,Horror,25-34,7.2,Final Verdict_2016_Hindi
+139,Broken Roads,2021,Korean,Horror,13-17,6.8,Broken Roads_2021_Korean
+211,Digital Age,2025,Japanese,Action,35-44,7.2,Digital Age_2025_Japanese
+28,Final Verdict,2021,Japanese,Sci-Fi,18-24,9.2,Final Verdict_2021_Japanese
+51,Future World,2012,Korean,Adventure,25-34,5.9,Future World_2012_Korean
+261,Code Breaker,2016,Spanish,Comedy,18-24,6.9,Code Breaker_2016_Spanish
+261,The Silent House,2010,Korean,Drama,45+,7.9,The Silent House_2010_Korean
+8,Shadow Hunter,2018,Korean,Crime,35-44,6.7,Shadow Hunter_2018_Korean
+138,Beyond the Stars,2019,Korean,Thriller,13-17,8.8,Beyond the Stars_2019_Korean
+38,Hidden Truth,2022,Spanish,Adventure,25-34,7.8,Hidden Truth_2022_Spanish
+111,Shadow Hunter,2015,Spanish,Romance,18-24,6.3,Shadow Hunter_2015_Spanish
+220,Future World,2025,French,Action,35-44,7.3,Future World_2025_French
+136,Love in Winter,2016,French,Sci-Fi,35-44,6.2,Love in Winter_2016_French
+256,Digital Age,2014,French,Thriller,45+,6.9,Digital Age_2014_French
+49,Wild Frontier,2019,Japanese,Action,18-24,8.5,Wild Frontier_2019_Japanese
